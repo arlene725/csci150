@@ -16,8 +16,6 @@ driver.wait(until.elementLocated(By.name('#ICSave')), 10*1000).then(function(elm
   elm.click();
 });
 driver.wait(until.elementLocated(By.id('ACE_SSR_CLSRSLT_WRK_GROUPBOX1')), 10*1000).then(function(elm) {
-
-
   driver.findElement(By.id('ACE_$ICField$4$$0')).getText().then(function(table) {
     var fs = require('fs');
     var stream = fs.createWriteStream("courseInfo.txt");
