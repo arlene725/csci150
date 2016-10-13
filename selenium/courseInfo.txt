@@ -1,0 +1,475 @@
+ CSCI 1 - Critical Thinking and Computer Science 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75113
+02-LEC
+MoWeFr 9:00AM - 9:50AM
+Ag Mechanic Building Room 101
+Prudence Lowe
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75744
+05-LEC
+TuTh 9:30AM - 10:45AM
+McKee-Fisk Building Room 205
+Prudence Lowe
+08/22/2016 - 12/15/2016
+   CSCI 5 - Computer and Applications 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75745
+01-LEC
+MoWe 10:00AM - 10:50AM
+Ag Mechanic Building Room 102
+Prudence Lowe
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75746
+05-LAB
+We 2:00PM - 3:50PM
+McKee-Fisk Building Room 201
+Jeevjyot Singh Sukhdev Singh Chhabda
+08/22/2016 - 12/15/2016
+   CSCI 40 - Introduction to Programming and Problem Solving 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+77654
+01-LEC
+TuTh 8:00AM - 9:15AM
+LAB School Building Room 134
+Santanu Banerjee
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+77655
+02-LAB
+Th 12:00PM - 1:50PM
+Science 2 Building Room 319
+Deepti Shashidharaiah
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75115
+07-LAB
+Mo 11:00AM - 12:50PM
+Engineering East Bldg Rm 385
+Prudence Lowe
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75821
+10-LEC
+MoWeFr 9:00AM - 9:50AM
+Science 2 Building Room 309
+David Ruby
+08/22/2016 - 12/15/2016
+  ATTENTION: DISCOVERe Tablet Class
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75160
+11-LAB
+Th 2:00PM - 3:50PM
+Engineering East Bldg Rm 385
+David Ruby
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75669
+12-LAB
+We 1:00PM - 2:50PM
+Engineering East Bldg Rm 385
+David Ruby
+08/22/2016 - 12/15/2016
+   CSCI 41 - Introduction to Data Structures 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75117
+01-LEC
+MoWeFr 9:00AM - 9:50AM
+Industrial Tech Bldg Rm 290
+Shih-Hsi Liu
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75118
+02-LAB
+Mo 11:00AM - 12:50PM
+McKee-Fisk Building Room 201
+Shih-Hsi Liu
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75917
+03-LAB
+Mo 1:00PM - 2:50PM
+McKee-Fisk Building Room 201
+Shih-Hsi Liu
+08/22/2016 - 12/15/2016
+   CSCI 60 - Foundations of Computer Science 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75124
+01-LEC
+MoWeFr 10:00AM - 10:50AM
+Industrial Tech Bldg Rm 290
+J Wilson
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75788
+02-LAB
+Tu 10:00AM - 11:50AM
+Industrial Tech Bldg Rm 104
+Anton Savelyev
+08/22/2016 - 12/15/2016
+   CSCI 100 - Introduction to Computational Science 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+76259
+01-LEC
+MoWeFr 1:00PM - 1:50PM
+Industrial Tech Bldg Rm 104
+J Wilson
+08/22/2016 - 12/15/2016
+   CSCI 113 - Introduction to Computer Organization 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75617
+04-LAB
+We 10:00AM - 11:50AM
+McKee-Fisk Building Room 201
+Santanu Banerjee
+08/22/2016 - 12/15/2016
+   CSCI 117 - Structures of Programming Languages 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75311
+01-LEC
+TuTh 12:30PM - 1:45PM
+Ag Mechanic Building Room 102
+Jin Park
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75312
+02-ACT
+Fr 10:00AM - 11:50AM
+McKee-Fisk Building Room 201
+Jin Park
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+77678
+04-ACT
+Fr 2:00PM - 3:50PM
+Engineering East Bldg Rm 385
+Carlos Moreno
+08/22/2016 - 12/15/2016
+   CSCI 119 - Introduction to Finite Automata 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75492
+02-LAB
+Mo 11:00AM - 12:50PM
+McKee-Fisk Building Room 205
+Carlos Moreno
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75789
+03-LAB
+Mo 1:00PM - 2:50PM
+McKee-Fisk Building Room 205
+Hannah Scott
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+77677
+04-LAB
+Mo 3:00PM - 4:50PM
+McKee-Fisk Building Room 205
+Hannah Scott
+08/22/2016 - 12/15/2016
+   CSCI 144 - Introduction to Operating Systems 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75646
+01-LEC
+MoWeFr 2:00PM - 2:50PM
+Industrial Tech Bldg Rm 294
+Ming Li
+08/22/2016 - 12/15/2016
+   CSCI 150 - Introduction to Software Engineering 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+77673
+03-LAB
+TuTh 4:30PM - 5:20PM
+McKee-Fisk Building Room 205
+Hannah Scott
+08/22/2016 - 12/15/2016
+   CSCI 156 - Internetworking Systems and Protocols 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75900
+01-LEC
+MoWeFr 3:00PM - 3:50PM
+McKee-Fisk Building Room 208
+Ming Li
+08/22/2016 - 12/15/2016
+   CSCI 172 - Computer Graphics 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+76260
+01-LEC
+TuTh 11:00AM - 12:15PM
+McKee-Fisk Building Room 208
+Dhanyu Amarasinghe
+08/22/2016 - 12/15/2016
+   CSCI 190 - Independent Study 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75127
+01-SUP
+TBA
+Generic Classroom
+J Wilson
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75129
+02-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75140
+03-SUP
+TBA
+Generic Classroom
+J Wilson
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75635
+04-SUP
+TBA
+Generic Classroom
+David Ruby
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75841
+05-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75778
+31-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+   CSCI 194 - Cooperative Education 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75128
+01-SUP
+TBA
+Generic Classroom
+Ming Li
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75131
+02-SUP
+TBA
+Generic Classroom
+Ming Li
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75132
+03-SUP
+TBA
+Generic Classroom
+Ming Li
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75133
+04-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+   CSCI 198 - Project 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75134
+01-SUP
+TBA
+Generic Classroom
+Shih-Hsi Liu
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75141
+02-SUP
+TBA
+Generic Classroom
+Brent Auernheimer
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75142
+03-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75143
+04-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75144
+05-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+   CSCI 200 - Introduction to Research in Computer Science 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75122
+01-SEM
+We 6:00PM - 6:50PM
+Industrial Tech Bldg Rm 104
+Brent Auernheimer
+08/22/2016 - 12/15/2016
+   CSCI 250 - Advanced Software Engineering 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+76261
+01-SEM
+TuTh 2:00PM - 3:15PM
+McKee-Fisk Building Room 205
+Shih-Hsi Liu
+08/22/2016 - 12/15/2016
+   CSCI 272 - Computer Graphics 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+76262
+01-SEM
+MoWe 2:00PM - 3:15PM
+Family Food & Sci Bldg Rm 212A
+Dhanyu Amarasinghe
+08/22/2016 - 12/15/2016
+   CSCI 290 - Independent Study 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75130
+01-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75145
+02-SUP
+TBA
+Generic Classroom
+Ming Li
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75452
+03-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75471
+04-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75632
+05-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75639
+06-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75987
+07-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+   CSCI 297 - Grad Synthesis 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+77743
+1-SEM
+We 11:00AM - 12:50PM
+TBA
+Industrial Tech Bldg Rm 104
+Digital Campus
+Brent Auernheimer,
+J Wilson,
+Jin Park,
+Shih-Hsi Liu
+Staff
+08/22/2016 - 12/15/2016
+08/22/2016 - 12/15/2016
+   CSCI 298 - Research Project 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75123
+01-SUP
+TBA
+Generic Classroom
+J Wilson
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75138
+02-SUP
+TBA
+Generic Classroom
+Shih-Hsi Liu
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75139
+03-SUP
+TBA
+Generic Classroom
+Jin Park
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75146
+04-SUP
+TBA
+Generic Classroom
+Brent Auernheimer
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75259
+05-SUP
+TBA
+Generic Classroom
+Ming Li
+08/22/2016 - 12/15/2016
+   CSCI 298C - Project Continuation 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75687
+01-SUP
+TBA
+Generic Classroom
+Ming Li
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75689
+02-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+   CSCI 299 - Master's Thesis 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75409
+01-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+  Class Section Days & Times Room Instructor Meeting Dates Status  
+75480
+02-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+   CSCI 299C - Thesis Continuation 
+Class Section Days & Times Room Instructor Meeting Dates Status  
+75990
+01-SUP
+TBA
+Generic Classroom
+Staff
+08/22/2016 - 12/15/2016
+ 
