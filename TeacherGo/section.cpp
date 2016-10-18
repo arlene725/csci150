@@ -2,17 +2,7 @@
 #include <string>
 using std::string;
 
-string className;
-string major;
-string sectionNum;
-string firstName;
-string lastName;
-string startTime;
-string endTime;
-string days;
-int term;
-
-section::section(string cn, string mj, string sn, string fn, string ln, string st, string et, string da, int te)
+section::section(string cn="", string mj="", string sn="", string fn="", string ln="", string st="07:00", string et="08:00", string da="MtuWThF", int te=0)
 {
     className = cn;
     major = mj;
@@ -120,3 +110,4 @@ string section::toString()
 {
     return sectionNum + "*" + major + "*" + className + "*" + firstName + "*" + lastName + "*" + startTime + "*" + endTime + "*" + days + "*" + std::to_string(term);
 }
+

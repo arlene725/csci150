@@ -27,6 +27,17 @@ public:
     void setTerm(int);
 
     string toString();
-};
+    friend std::ostream& operator<<(std::ostream&, const section&);
 
+private:
+    string className;
+    string major;
+    string sectionNum;
+    string firstName;
+    string lastName;
+    string startTime;
+    string endTime;
+    string days;
+    int term;
+};
 #endif // SECTION_H

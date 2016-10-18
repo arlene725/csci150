@@ -5,18 +5,24 @@
 #include <QTime>
 #include <QString>
 #include <string>
+#include <QFileDialog>
+#include <QTextStream>
+#include <QFile>
+#include <QVector>
 
 using std::string;
 
-section* sects[50];
-int count = 0;
+QVector<section*> sects(20);
+int count;
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
 {
-    connect(ui->pushButton, SIGNAL (released()), this, SLOT(on_pushButton_clicked()));
+    count = 0;
     ui->setupUi(this);
+    //connect(ui->pushButton, SIGNAL(pressed()), this, SLOT(on_pushButton_clicked()));
+    connect(ui->actionSave, SIGNAL(triggered(bool)), this, SLOT(save()));
 }
 
 MainWindow::~MainWindow()
@@ -24,9 +30,22 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+void MainWindow::save()
+{
+        QFile file(QFileDialog::getSaveFileName(this, tr("Save courses"), QDir::currentPath(), tr("Data (*dat)")));
+
+        if (!file.open(QIODevice::WriteOnly | QIODevice::Text))
+                return;
+        QTextStream out(&file);
+        for(int i = 0;i < count;i++)
+        {
+            out << QString::fromStdString(sects[i]->toString()) << "\n";
+        }
+}
+
+// Processed when submit button is pressed. Does minimal testing on input data and creates new section.
 void MainWindow::on_pushButton_clicked()
 {
-   // section tempSec;
     QMessageBox msg;
     if(ui->classNameBox->text().isEmpty())
     {
@@ -117,8 +136,30 @@ void MainWindow::addToTable(section *s)
     ui->sectTable->setItem(count-1,2,new QTableWidgetItem(QString::fromStdString(s->getSectNum())));
     ui->sectTable->setItem(count-1,3,new QTableWidgetItem(QString::fromStdString(s->getLastName() + ", " + s->getFirstName())));
     ui->sectTable->setItem(count-1,4,new QTableWidgetItem(QString::fromStdString(s->getDays() + " " + s->getStartTime() + "-" + s->getEndTime())));
-    ui->sectTable->setItem(count-1,5,new QTableWidgetItem(s->getTerm()));
+
+    QString term;
+    int t = s->getTerm();
+
+    if (s->getTerm() == 1)
+        term = "Half-Term(First half)";
+    else if (s->getTerm())
+        term = "Half-Term(Second half)";
+    else
+        term = "Full Term";
+
+    ui->sectTable->setItem(count-1,5,new QTableWidgetItem(term));
 
 
     ui->sectTable->setSortingEnabled(true);
+}
+
+void MainWindow::displayAll()
+{
+    QMessageBox msg;
+
+    for(int i = 0; i < count; i++)
+    {
+        msg.setText(QString::fromStdString(sects[i]->toString()));
+        msg.exec();
+    }
 }
