@@ -6,11 +6,11 @@
 #include "pr150obs.h"
 using namespace std;
 
-vector<course> added;
-vector<course> possibles;
+vector<course*> added;
+vector<course*> possibles;
 
-void initobj(string s, course o);
-bool canadd(course a, course b);
+void initobj(string s, course * o);
+bool canadd(course * a, course * b);
 double minconv(int x);
 double dectime(string s);
 int getit(double x);
@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
 	ifstream insched;
 	ofstream outsched;
 	string parse;
-	course *c;
+	course * c;
 	insched.open("scheduleadd.txt");
 	if (!insched.is_open()) {
 		cout << "Unable to open file.\n";
@@ -27,12 +27,12 @@ int main(int argc, char *argv[]) {
 	}
 	while (!EOF) {
 		getline(insched, parse);
-		c = new course;
-		initobj(parse, &c);
+		c = new course();
+		initobj(parse, c);
 		possibles.push_back(c);
 
 	}
-	if (possibles.at(0).schedcheck()==false)
+	if (possibles.at(0)->schedcheck()==false)
 		cout << "false" << endl;
 	char f;
 	cin >> f;
@@ -40,7 +40,7 @@ int main(int argc, char *argv[]) {
 	return 0;
 }
 
-void initobj(string s, course o) {
+void initobj(string s, course * o) {
 	string put;
 	int i = 0;
 	int j;
@@ -49,61 +49,61 @@ void initobj(string s, course o) {
 		++i;
 	}
 	++i;
-	o.putid(put);
+	o->putid(put);
 	put.clear();
 	while (s.at(i) != '*') {
 		put.push_back(s.at(i));
 		++i;
 	}
 	++i;
-	o.putsec(put);
+	o->putsec(put);
 	put.clear();
 	while (s.at(i) != '*') {
 		put.push_back(s.at(i));
 		++i;
 	}
 	++i;
-	o.putprof(put);
+	o->putprof(put);
 	put.clear();
 	while (s.at(i) != '*') {
 		put.push_back(s.at(i));
 		++i;
 	}
 	++i;
-	o.putdow(put);
+	o->putdow(put);
 	put.clear();
 	while (s.at(i) != '*') {
 		put.push_back(s.at(i));
 		++i;
 	}
 	++i;
-	o.putbegtime(put);
+	o->putbegtime(put);
 	put.clear();
 	while (s.at(i) != '*') {
 		put.push_back(s.at(i));
 		++i;
 	}
 	++i;
-	o.putendtime(put);
+	o->putendtime(put);
 	put.clear();
 	while (s.at(i) != '*') {
 		put.push_back(s.at(i));
 		++i;
 	}
-	o.putterm(put);
-	i = getit(dectime(o.getbegtime()));
-	j = getit(dectime(o.getendtime()));
+	o->putterm(put);
+	i = getit(dectime(o->getbegtime()));
+	j = getit(dectime(o->getendtime()));
 	while (i <= j) {
-		o.puttaglist(i);
+		o->puttaglist(i);
 		++i;
 	}
 }
 
-bool canadd(course a, course b) {
-	string da = a.getdow();
-	string db = b.getdow();
-	vector<int> ta = a.gettaglist();
-	vector<int> tb = b.gettaglist();
+bool canadd(course * a, course *b) {
+	string da = a->getdow();
+	string db = b->getdow();
+	vector<int> ta = a->gettaglist();
+	vector<int> tb = b->gettaglist();
 	if ((da == db) && (ta == tb))
 		return false;
 	for (unsigned int i = 0; i < da.size(); ++i) {
@@ -121,8 +121,8 @@ bool canadd(course a, course b) {
 	return true;
 }
 
-void addcourse(course o) {
-	o.schedit();
+void addcourse(course * o) {
+	o->schedit();
 	added.push_back(o);
 	return;
 }
