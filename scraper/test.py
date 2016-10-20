@@ -3,15 +3,15 @@
 import string
 
 #python script that will add information to a file 
-
-# how to call python from c++
-# python file needs to be in the same directory as main.cpp
-# additional library to include : #include <cstdlib>
-# python script call: system("python test.py");
-# 
+'''
+ how to call python from c++
+ python file needs to be in the same directory as main.cpp
+ additional library to include : #include <cstdlib>
+ python script call: system("python test.py");
 
 '''
 
+'''
 to scrape a javascript website
 requires selenium and a webdriver (firefox, or chrome potentially)
 Firefox is used in this example
@@ -21,28 +21,47 @@ go through a website that contains javascript and manipulate it
 with the help of a browser 
 
 '''
+#importing lxml to use the commmands to scrape 
+from lxml.html as lh
 
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 SITE_ADDR = 'https://www.ratemyprofessors.com/campusRatings.jsp?sid='
+#link_xpath leads to the Enter Your Department search box that will be filled out 
 LINK_XPATH= '//*[@id="mainContent"]/div[1]/div/div[3]/div/div/input'
+#csci is what you will be filling into the department search box
 CSCI= 'computer science'
-SCHOOL= 'fresno state'
+#school variable is just in case you need to re-enter the fresno state web portion 
+#SCHOOL= 'fresno state'
+#upc is the code that goes at the end of the site_addr where the fresno state content page resides
 UPC= '161'
 
 
+#using inheritance.
 class ScrapingBrowser(webdriver.Firefox):
 	def _init_(self, addr, upc, *args, **kwargs):
 		super('''requires arguments for python 2.7, needs no arguments if you use python 3.0'''), _init_(*args, **kwargs)
+		#inheriting from the firefox class, has mathod implicitly wait
+		#makes code wait for html to appear
 		self.implicity_wait(10)
+		#get method also from firefox class
 		self.get(addr +upc)
 
-	def enter_school(self, school)
-		self.find_element_by_xpath(LINK_XPATH).click()
-		self.finc_element_by_name('').send_keys(zipcode, Keys.RETURN)
+		#defining eneter school methods that takes the department name, 
+		#looks for an element by xpath and then clicks
+		#self.find_element_by_xpath(LINK_XPATH).click()
+		#looking for element by name  self.find_element_by_name('').send_keys(zipcode, Keys.RETURN)
+	def enter_school(self, csci):
+		self.find_element_by_xpath(LINK_XPATH).send_keys(csci, Keys.RETURN)
 
+	def get_data():
+		self.find_elements_by_tag_name('side-panel') 
+
+#all of this code below commented out is not necessary for our project, 
+#still useful to keep as a reference for now
+'''
 	def switch_to_target_form(self):
 		iframe = None
 
@@ -70,12 +89,27 @@ class ScrapingBrowser(webdriver.Firefox):
 				previous_last_phone = last_span.text
 				self.execute_script('',last_span)
 				sleep(2.5)
+'''
 
 if _name_ =='__main__':
 	browser = ScrapingBrowser(SITE_ADDR, UPC)
-	browser.enter_school(SCHOOL)
-	browser.switch_to_target_form()
-	browser.scroll_to_button
+	browser.enter_school(CSCI)
+	browser.get_data
+	#browser.switch_to_target_form()
+	#browser.scroll_to_button
+	data=browser.page_source
+	browser.quit()
+
+
+
+
+#obtaining data from certain xpath, 
+#we print out the results to make sure all the information is available
+#will later be placed into a new file for use
+doc= lh.fromstring(data)
+for elt in doc.xpath('//*[@id="mainContent"]/div[1]/div/div[5]'): #xpath of the result-list class 
+	print elt
+
 
 
 #example of how to write to a file:
