@@ -3,8 +3,43 @@
 #include <cstdlib>
 #include <sstream>
 #include <fstream>
-#include "pr150obs.h"
+#include <string>
+#include <vector>
 using namespace std;
+
+class course {
+public:
+	course() { scheduled = false; }
+	~course() { delete this; }
+	void schedit() { scheduled = true; }
+	bool schedcheck() { return scheduled; }
+	void puttaglist(int x) { taglist.push_back(x); }
+	vector<int> gettaglist() { return taglist; }
+	void putid(string s) { cid = s; }
+	string getid() { return cid; }
+	void putsec(string s) { sec = s; }
+	string getsec() { return sec; }
+	void putprof(string s) { prof = s; }
+	string getprof() { return prof; }
+	void putdow(string s) { dow = s; }
+	string getdow() { return dow; }
+	void putbegtime(string s) { begtime = s; }
+	string getbegtime() { return begtime; }
+	void putendtime(string s) { endtime = s; }
+	string getendtime() { return endtime; }
+	void putterm(string s) { term = s; }
+	string getterm() { return term; }
+private:
+	bool        scheduled;
+	vector<int> taglist;
+	string      cid;
+	string      sec;
+	string      prof;
+	string      dow;
+	string      begtime;
+	string      endtime;
+	string      term;
+};
 
 vector<course*> added;
 vector<course*> possibles;
@@ -32,7 +67,7 @@ int main(int argc, char *argv[]) {
 		possibles.push_back(c);
 
 	}
-	if (possibles.at(0)->schedcheck()==false)
+	if (possibles.at(0)->schedcheck() == false)
 		cout << "false" << endl;
 	char f;
 	cin >> f;
@@ -160,7 +195,7 @@ double dectime(string s) {
 		++i;
 		c = s.at(i);
 	}
-	result += stod (substr);
+	result += stod(substr);
 	substr.clear();
 	++i;
 	c = s.at(i);
@@ -169,7 +204,7 @@ double dectime(string s) {
 		++i;
 		c = s.at(i);
 	}
-	min = stoi (substr);
+	min = stoi(substr);
 	while (iswspace(s.at(i)))
 		++i;
 	if (s.at(i) == 'p') {
