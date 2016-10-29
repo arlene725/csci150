@@ -1,12 +1,20 @@
 #ifndef SECTION_H
 #define SECTION_H
 #include <string>
-using std::string;
+#include <vector>
+using namespace std;
 
-class section
+class course
 {
 public:
-    section(string, string, string, string, string, string, string, string, int);
+    course();
+    course(string, string, string, string, string, string, string, string, string, int);
+    ~course();
+    void schedit();
+    bool schedcheck();
+    void puttaglist(int x);
+    vector<int> gettaglist();
+
     string getClassName();
     void setClassName(string);
     string getMajor();
@@ -18,18 +26,23 @@ public:
     string getLastName();
     void setLastName(string);
     string getDays();
+    string getReadableDays();
     void setDays(string);
     string getStartTime();
     void setStartTime(string);
     string getEndTime();
     void setEndTime(string);
-    int getTerm();
-    void setTerm(int);
+    string getTerm();
+    void setTerm(string);
+    int getUnits();
+    void setUnits(int);
 
     string toString();
-    friend std::ostream& operator<<(std::ostream&, const section&);
+    friend std::ostream& operator<<(std::ostream&, const course&);
 
 private:
+    bool scheduled;
+    vector<int> taglist;
     string className;
     string major;
     string sectionNum;
@@ -38,6 +51,7 @@ private:
     string startTime;
     string endTime;
     string days;
-    int term;
+    string term;
+    int units;
 };
 #endif // SECTION_H

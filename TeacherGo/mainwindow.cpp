@@ -1,6 +1,5 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include "section.h"
 #include <QMessageBox>
 #include <QTime>
 #include <QString>
@@ -8,21 +7,22 @@
 #include <QFileDialog>
 #include <QTextStream>
 #include <QFile>
-#include <QVector>
-
-using std::string;
-
-QVector<section*> sects(20);
-int count;
+#include <iostream>
+#include <cmath>
+#include <cstdlib>
+using namespace std;
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
 {
-    count = 0;
+    classes = 0;
+    //added = QVector<course *>();
+    //possibles = QVector<course *>();
     ui->setupUi(this);
     //connect(ui->pushButton, SIGNAL(pressed()), this, SLOT(on_pushButton_clicked()));
     connect(ui->actionSave, SIGNAL(triggered(bool)), this, SLOT(save()));
+    connect(ui->actionLoad, SIGNAL(triggered(bool)), this, SLOT(load()));
 }
 
 MainWindow::~MainWindow()
@@ -37,11 +37,108 @@ void MainWindow::save()
         if (!file.open(QIODevice::WriteOnly | QIODevice::Text))
                 return;
         QTextStream out(&file);
-        for(int i = 0;i < count;i++)
+        for(int i = 0;i < classes;i++)
         {
-            out << QString::fromStdString(sects[i]->toString()) << "\n";
+            out << QString::fromStdString(possibles[i]->toString()) << "\n";
         }
 }
+
+void MainWindow::load()
+{
+    QFile file(QFileDialog::getOpenFileName(this, tr("Load courses"), QDir::currentPath(), tr("Data (*dat)")));
+
+    if (!file.open(QIODevice::ReadOnly | QIODevice::Text))
+        return;
+    QTextStream in(&file);
+    string line;// = in.readLine().toStdString();
+    classes = 0;
+    ui->sectTable->clearContents();
+
+    course * o;
+    while (!in.atEnd())
+    {
+        line = in.readLine().toStdString();
+        o = new course();
+        initobj(line, o);
+        possibles.push_back(o);
+        addToTable(o);
+        classes++;
+    }
+}
+
+//Creates schedule from possibles when button clicked
+void MainWindow::on_schedButt_clicked()
+{
+    if(classes > 0)
+    {
+        int totUnits = 0;
+        addcourse(possibles[0]);
+        totUnits += possibles[0]->getUnits();
+
+        for(int i = 1; i < classes; i++)
+        {
+            if(possibles[i]->getUnits() + totUnits <= ui->unitsDesBox->value())
+            {
+                for(int j = 0; j < i; j++)
+                {
+                    if(canadd(possibles[i], possibles[j]))
+                    {
+                        addcourse(possibles[j]);
+                        totUnits += possibles[j]->getUnits();
+                    }
+                }
+            }
+        }
+    }
+    dispSched();
+}
+
+void MainWindow::dispSched()
+{
+    course * o;
+    ui->schedTable->clearContents();
+    for(int i = 0; i < added.length(); i++)
+    {
+        o = added.at(i);
+
+        if(o->getDays().at(0) == '1')//Monday
+        {
+            for(int j = 0; j < o->gettaglist().size(); j ++)
+            {
+                ui->schedTable->setItem(o->gettaglist()[j] - 14,0, new QTableWidgetItem(QString::fromStdString(o->getClassName())));
+            }
+        }
+        if(o->getDays().at(1) == '1')//Tuesday
+        {
+            for(int j = 0; j < o->gettaglist().size(); j ++)
+            {
+                ui->schedTable->setItem(o->gettaglist()[j] - 14, 1, new QTableWidgetItem(QString::fromStdString(o->getClassName())));
+            }
+        }
+        if(o->getDays().at(2) == '1')//Wednesday
+        {
+            for(int j = 0; j < o->gettaglist().size(); j ++)
+            {
+                ui->schedTable->setItem(o->gettaglist()[j] - 14, 2, new QTableWidgetItem(QString::fromStdString(o->getClassName())));
+            }
+        }
+        if(o->getDays().at(3) == '1')//Thursday
+        {
+            for(int j = 0; j < o->gettaglist().size(); j ++)
+            {
+                ui->schedTable->setItem(o->gettaglist()[j] - 14, 3, new QTableWidgetItem(QString::fromStdString(o->getClassName())));
+            }
+        }
+        if(o->getDays().at(4) == '1')//Friday
+        {
+            for(int j = 0; j < o->gettaglist().size(); j ++)
+            {
+                ui->schedTable->setItem(o->gettaglist()[j] - 14, 4, new QTableWidgetItem(QString::fromStdString(o->getClassName())));
+            }
+        }
+    }
+}
+
 
 // Processed when submit button is pressed. Does minimal testing on input data and creates new section.
 void MainWindow::on_pushButton_clicked()
@@ -89,25 +186,46 @@ void MainWindow::on_pushButton_clicked()
         string days = "";
 
         if (ui->monBox->isChecked())
-            days += "M";
+            days += "1";
+        else
+            days += "0";
         if (ui->tuesBox->isChecked())
-            days += "Tu";
+            days += "1";
+        else
+            days += "0";
         if (ui->wedBox->isChecked())
-            days += "W";
+            days += "1";
+        else
+            days += "0";
         if (ui->thurBox->isChecked())
-            days += "Th";
+            days += "1";
+        else
+            days += "0";
         if (ui->friBox->isChecked())
-            days += "F";
+            days += "1";
+        else
+            days += "0";
 
-        int term = 0;
+        string term = "0";
 
         if (ui->firHTermRadio->isChecked())
-            term = 1;
+            term = "1";
         else if (ui->sndHTermRadio->isChecked())
-            term = 2;
+            term = "2";
 
-        sects[count++] = new section(classNa,maj,sectN,fName,lName,sTime,eTime,days,term);
-        addToTable(sects[count-1]);
+        int units = ui->unitsBox->value();
+        course * o = new course(classNa,maj,sectN,fName,lName,sTime,eTime,days,term,units);
+
+        int i = getit(dectime(sTime));
+        int j = getit(dectime(eTime));
+        while (i <= j) {
+            o->puttaglist(i);
+            ++i;
+        }
+
+        possibles.push_back(o);
+        addToTable(o);
+        classes++;
         clearAll();
     }
 }
@@ -127,27 +245,27 @@ void MainWindow::clearAll()
     ui->endTime->setTime(QTime(8,0));
 }
 
-void MainWindow::addToTable(section *s)
+void MainWindow::addToTable(course *s)
 {
     ui->sectTable->setSortingEnabled(false);
-    ui->sectTable->setRowCount(count);
-    ui->sectTable->setItem(count-1,0,new QTableWidgetItem(QString::fromStdString(s->getClassName())));
-    ui->sectTable->setItem(count-1,1,new QTableWidgetItem(QString::fromStdString(s->getMajor())));
-    ui->sectTable->setItem(count-1,2,new QTableWidgetItem(QString::fromStdString(s->getSectNum())));
-    ui->sectTable->setItem(count-1,3,new QTableWidgetItem(QString::fromStdString(s->getLastName() + ", " + s->getFirstName())));
-    ui->sectTable->setItem(count-1,4,new QTableWidgetItem(QString::fromStdString(s->getDays() + " " + s->getStartTime() + "-" + s->getEndTime())));
+    ui->sectTable->setRowCount(classes);
+    ui->sectTable->setItem(classes-1,0,new QTableWidgetItem(QString::fromStdString(s->getClassName())));
+    ui->sectTable->setItem(classes-1,1,new QTableWidgetItem(QString::fromStdString(s->getMajor())));
+    ui->sectTable->setItem(classes-1,2,new QTableWidgetItem(QString::fromStdString(s->getSectNum())));
+    ui->sectTable->setItem(classes-1,3,new QTableWidgetItem(QString::fromStdString(s->getLastName() + ", " + s->getFirstName())));
+    ui->sectTable->setItem(classes-1,4,new QTableWidgetItem(QString::fromStdString(s->getReadableDays() + " " + s->getStartTime() + "-" + s->getEndTime())));
 
     QString term;
-    int t = s->getTerm();
 
-    if (s->getTerm() == 1)
+    if (s->getTerm() == "1")
         term = "Half-Term(First half)";
-    else if (s->getTerm())
+    else if (s->getTerm() =="2")
         term = "Half-Term(Second half)";
     else
         term = "Full Term";
 
-    ui->sectTable->setItem(count-1,5,new QTableWidgetItem(term));
+    ui->sectTable->setItem(classes-1,5,new QTableWidgetItem(term));
+    ui->sectTable->setItem(classes-1,6,new QTableWidgetItem(QString::fromStdString(std::to_string(s->getUnits()))));
 
 
     ui->sectTable->setSortingEnabled(true);
@@ -157,9 +275,203 @@ void MainWindow::displayAll()
 {
     QMessageBox msg;
 
-    for(int i = 0; i < count; i++)
+    for(int i = 0; i < classes; i++)
     {
-        msg.setText(QString::fromStdString(sects[i]->toString()));
+        msg.setText(QString::fromStdString(possibles[i]->toString()));
         msg.exec();
     }
+}
+
+void MainWindow::initobj(string s, course * o) {
+    string put;
+    int i = 0;
+    int j;
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setSectNum(put);
+
+    put.clear();
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setMajor(put);
+
+    put.clear();
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setClassName(put);
+
+    put.clear();
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setLastName(put
+                   );
+    put.clear();
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setFirstName(put);
+
+    put.clear();
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setStartTime(put);
+
+    put.clear();
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setEndTime(put);
+
+    put.clear();
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setDays(put);
+
+    put.clear();
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setTerm(put);
+
+    put.clear();
+    while (s.at(i) != '*') {
+        put.push_back(s.at(i));
+        ++i;
+    }
+    ++i;
+    o->setUnits(std::stoi(put));
+
+    i = getit(dectime(o->getStartTime()));
+    j = getit(dectime(o->getEndTime()));
+    while (i <= j) {
+        o->puttaglist(i);
+        ++i;
+    }
+}
+
+// Compares two courses to see if any time conflicts occur
+bool MainWindow::canadd(course * a, course *b) {
+    string da = a->getDays();
+    string db = b->getDays();
+    vector<int> ta = a->gettaglist();
+    vector<int> tb = b->gettaglist();
+    if ((da == db) && (ta == tb))
+        return false;
+    for (unsigned int i = 0; i < da.size(); ++i) {
+        for (unsigned int j = 0; j < db.size(); ++j) {
+            if (da.at(i) == db.at(j)) {
+                for (unsigned int x = 0; x < ta.size(); ++x) {
+                    for (unsigned int y = 0; y < tb.size(); ++y) {
+                        if (ta.at(x) == tb.at(y))
+                        {
+                            QMessageBox msg;
+                            msg.setText("Time conflict");
+                            msg.exec();
+                            return false;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    return true;
+}
+
+void MainWindow::addcourse(course * o) {
+    o->schedit();
+    added.push_back(o);
+    return;
+}
+
+/**
+* MINCONV converts minutes to a decimal value for use in the
+* double value that represents time converted to base 10
+*/
+double MainWindow::minconv(int x) {
+    double ans = x / 60.0;
+    return ans;
+}
+/**
+* DECTIME iterates through the string, and finds the portrion
+* represents the hour first. It will leave that in base 10,
+* but it converts it to a double. Next, it will convert the
+* minutes portion to an integer value. It will alter the hour
+* portion depending on whether or not the time is given as am
+* or pm. Once this is done, it feeds the minutes integer into
+* the MINCONV function, and appends the decimal to the newly
+* created time double, which is returned.
+*/
+double MainWindow::dectime(string s) {
+    double result = 0.0;
+    int min = 0;
+    int i = 0;
+    string substr;
+    char c = s.at(i);
+    if (s.empty() || (!isdigit(s.at(0)))) {
+        cout << "Invalid format\n";
+        exit(EXIT_FAILURE);
+    }
+    while (c != ':') {
+        substr += c;
+        ++i;
+        c = s.at(i);
+    }
+    result += stod (substr);
+    substr.clear();
+    ++i;
+   // c = s.at(i);
+
+    for(c = s.at(i); i < s.length() && isdigit(s.at(i)); i++)
+    {
+        substr += c;
+    }
+
+    /*
+    while (isdigit(s.at(i)) && i < s.length()) {
+        substr += c;
+        ++i;
+        c = s.at(i);
+    }*/
+    min = stoi (substr);
+    result += minconv(min);
+    return result;
+}
+
+/**
+* GETIT will take the time double generated from DECTIME and
+* use it to generate an iterator which will be used to populate
+* the data structure for the schedule, allowing for detection
+* of time conflicts.
+*/
+int MainWindow::getit(double x) {
+    int result;
+    double test = floor(x);
+    result = static_cast<int>(test) * 2;
+    if ((x - test) > 0.0)
+        result += 1;
+    return result;
 }

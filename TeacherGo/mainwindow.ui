@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>663</width>
-    <height>537</height>
+    <width>784</width>
+    <height>586</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,14 +17,14 @@
    <widget class="QTabWidget" name="tabWidget">
     <property name="geometry">
      <rect>
-      <x>0</x>
+      <x>10</x>
       <y>0</y>
-      <width>651</width>
-      <height>481</height>
+      <width>761</width>
+      <height>521</height>
      </rect>
     </property>
     <property name="currentIndex">
-     <number>0</number>
+     <number>2</number>
     </property>
     <widget class="QWidget" name="tab">
      <attribute name="title">
@@ -253,8 +253,8 @@
      <widget class="QGroupBox" name="dayGroup">
       <property name="geometry">
        <rect>
-        <x>310</x>
-        <y>250</y>
+        <x>210</x>
+        <y>240</y>
         <width>151</width>
         <height>161</height>
        </rect>
@@ -399,18 +399,47 @@
        <bool>false</bool>
       </property>
      </widget>
+     <widget class="QSpinBox" name="unitsBox">
+      <property name="geometry">
+       <rect>
+        <x>380</x>
+        <y>280</y>
+        <width>47</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="maximum">
+       <number>8</number>
+      </property>
+      <property name="value">
+       <number>3</number>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_7">
+      <property name="geometry">
+       <rect>
+        <x>380</x>
+        <y>260</y>
+        <width>71</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Units</string>
+      </property>
+     </widget>
     </widget>
     <widget class="QWidget" name="tab_2">
      <attribute name="title">
-      <string>List of Courses</string>
+      <string>List of Interested Courses</string>
      </attribute>
      <widget class="QTableWidget" name="sectTable">
       <property name="geometry">
        <rect>
         <x>10</x>
         <y>30</y>
-        <width>611</width>
-        <height>391</height>
+        <width>731</width>
+        <height>411</height>
        </rect>
       </property>
       <property name="editTriggers">
@@ -449,6 +478,272 @@
         <string>Term</string>
        </property>
       </column>
+      <column>
+       <property name="text">
+        <string>Units</string>
+       </property>
+      </column>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_3">
+     <attribute name="title">
+      <string>Schedule</string>
+     </attribute>
+     <widget class="QSpinBox" name="unitsDesBox">
+      <property name="geometry">
+       <rect>
+        <x>180</x>
+        <y>40</y>
+        <width>47</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="minimum">
+       <number>1</number>
+      </property>
+      <property name="value">
+       <number>12</number>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="schedButt">
+      <property name="geometry">
+       <rect>
+        <x>250</x>
+        <y>40</y>
+        <width>121</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Create Schedule</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_8">
+      <property name="geometry">
+       <rect>
+        <x>80</x>
+        <y>30</y>
+        <width>91</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Maximum Units Desired</string>
+      </property>
+      <property name="wordWrap">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QTableWidget" name="schedTable">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>80</y>
+        <width>571</width>
+        <height>401</height>
+       </rect>
+      </property>
+      <property name="editTriggers">
+       <set>QAbstractItemView::NoEditTriggers</set>
+      </property>
+      <property name="sortingEnabled">
+       <bool>false</bool>
+      </property>
+      <row>
+       <property name="text">
+        <string>07:00 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>07:30 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>08:00 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>08:30 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>09:00 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>09:30 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>10:00 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>10:30 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>11:00 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>11:30 AM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>12:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>12:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>01:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>01:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>02:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>02:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>03:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>03:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>04:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>04:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>05:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>05:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>06:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>06:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>07:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>07:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>08:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>08:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>09:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>09:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>10:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>10:30 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>11:00 PM</string>
+       </property>
+      </row>
+      <row>
+       <property name="text">
+        <string>11:30 PM</string>
+       </property>
+      </row>
+      <column>
+       <property name="text">
+        <string>Monday</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Tuesday</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Wednesday</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Thursday</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Friday</string>
+       </property>
+      </column>
      </widget>
     </widget>
    </widget>
@@ -468,7 +763,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>663</width>
+     <width>784</width>
      <height>19</height>
     </rect>
    </property>
@@ -477,6 +772,7 @@
      <string>&amp;File</string>
     </property>
     <addaction name="actionSave"/>
+    <addaction name="actionLoad"/>
     <addaction name="actionExit"/>
    </widget>
    <addaction name="menuTeacherGo"/>
@@ -495,6 +791,17 @@
    </property>
    <property name="shortcut">
     <string>Ctrl+X</string>
+   </property>
+  </action>
+  <action name="actionLoad">
+   <property name="text">
+    <string>&amp;Load</string>
+   </property>
+   <property name="toolTip">
+    <string>Load saved courses</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+L</string>
    </property>
   </action>
  </widget>

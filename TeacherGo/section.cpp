@@ -1,8 +1,12 @@
 #include "section.h"
-#include <string>
-using std::string;
+using namespace std;
 
-section::section(string cn="", string mj="", string sn="", string fn="", string ln="", string st="07:00", string et="08:00", string da="MtuWThF", int te=0)
+course::course()
+{
+    scheduled = false;
+}
+
+course::course(string cn="", string mj="", string sn="", string fn="", string ln="", string st="07:00", string et="08:00", string da="11111", string te="0", int u=3)
 {
     className = cn;
     major = mj;
@@ -13,101 +17,153 @@ section::section(string cn="", string mj="", string sn="", string fn="", string 
     endTime = et;
     days = da;
     term = te;
+    scheduled = false;
+    units = u;
 }
 
-string section::getClassName()
+course::~course() {
+    delete this;
+}
+
+void course::schedit() {
+    scheduled = true;
+    return;
+}
+
+bool course::schedcheck() {
+    return scheduled;
+}
+
+void course::puttaglist(int x) {
+    taglist.push_back(x);
+    return;
+}
+
+vector<int> course::gettaglist() {
+    return taglist;
+}
+
+string course::getClassName()
 {
     return className;
 }
 
-string section::getDays()
+string course::getDays()
 {
     return days;
 }
 
-string section::getFirstName()
+string course::getFirstName()
 {
     return firstName;
 }
 
-string section::getLastName()
+string course::getLastName()
 {
     return lastName;
 }
 
-string section::getMajor()
+string course::getMajor()
 {
     return major;
 }
 
-string section::getSectNum()
+string course::getSectNum()
 {
     return sectionNum;
 }
 
-string section::getStartTime()
+string course::getStartTime()
 {
     return startTime;
 }
 
-string section::getEndTime()
+string course::getEndTime()
 {
     return endTime;
 }
 
-int section::getTerm()
+string course::getTerm()
 {
     return term;
 }
 
+int course::getUnits()
+{
+    return units;
+}
 
-void section::setClassName(string n)
+// Displays days in a more human readabl string
+string course::getReadableDays()
+{
+    string s = "";
+
+    if (days[0] == '1')
+        s += "M";
+    if (days[1] == '1')
+        s += "Tu";
+    if (days[2] == '1')
+        s += "W";
+    if (days[3] == '1')
+        s += "Th";
+    if (days[4] == '1')
+        s += "F";
+
+    return s;
+}
+
+void course::setClassName(string n)
 {
     className = n;
 }
 
-void section::setMajor(string m)
+void course::setMajor(string m)
 {
     major = m;
 }
 
-void section::setSectNum(string n)
+void course::setSectNum(string n)
 {
     sectionNum = n;
 }
 
-void section::setFirstName(string n)
+void course::setFirstName(string n)
 {
     firstName = n;
 }
 
-void section::setLastName(string n)
+void course::setLastName(string n)
 {
     lastName = n;
 }
 
-void section::setStartTime(string t)
+void course::setStartTime(string t)
 {
     startTime = t;
 }
 
-void section::setEndTime(string t)
+void course::setEndTime(string t)
 {
     endTime = t;
 }
 
-void section::setDays(string d)
+void course::setDays(string d)
 {
     days = d;
 }
 
-void section::setTerm(int t)
+void course::setTerm(string t)
 {
     term = t;
 }
 
-string section::toString()
+void course::setUnits(int u)
 {
-    return sectionNum + "*" + major + "*" + className + "*" + firstName + "*" + lastName + "*" + startTime + "*" + endTime + "*" + days + "*" + std::to_string(term);
+    units = u;
+}
+
+string course::toString()
+{
+    return sectionNum + "*" + major + "*" + className + "*" + lastName + "*" + firstName + "*" + startTime + "*" + endTime + "*" + days + "*" + term + "*" + std::to_string(units) + "*";
 }
 
