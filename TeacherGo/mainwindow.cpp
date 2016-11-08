@@ -61,8 +61,8 @@ void MainWindow::load()
         o = new course();
         initobj(line, o);
         possibles.push_back(o);
-        addToTable(o);
         classes++;
+        addToTable(o);
     }
 }
 
@@ -83,8 +83,11 @@ void MainWindow::on_schedButt_clicked()
                 {
                     if(canadd(possibles[i], possibles[j]))
                     {
-                        addcourse(possibles[j]);
-                        totUnits += possibles[j]->getUnits();
+                        addcourse(possibles[i]);
+                        QMessageBox msg;
+                        msg.setText(QString::fromStdString(possibles[j]->toString()));
+                        msg.exec();
+                        totUnits += possibles[i]->getUnits();
                     }
                 }
             }
@@ -224,8 +227,8 @@ void MainWindow::on_pushButton_clicked()
         }
 
         possibles.push_back(o);
-        addToTable(o);
         classes++;
+        addToTable(o);
         clearAll();
     }
 }
@@ -382,14 +385,13 @@ bool MainWindow::canadd(course * a, course *b) {
     if ((da == db) && (ta == tb))
         return false;
     for (unsigned int i = 0; i < da.size(); ++i) {
-        for (unsigned int j = 0; j < db.size(); ++j) {
-            if (da.at(i) == db.at(j)) {
+            if (da.at(i) == db.at(i)) {
                 for (unsigned int x = 0; x < ta.size(); ++x) {
                     for (unsigned int y = 0; y < tb.size(); ++y) {
                         if (ta.at(x) == tb.at(y))
                         {
                             QMessageBox msg;
-                            msg.setText("Time conflict");
+                            msg.setText(QString::fromStdString("Time conflict: " + a->getReadableDays() + " " + a->getStartTime() + " - " + a->getEndTime() + " :: " + b->getReadableDays() + " " + b->getStartTime() + " - " + b->getEndTime()));
                             msg.exec();
                             return false;
                         }
@@ -397,7 +399,6 @@ bool MainWindow::canadd(course * a, course *b) {
                 }
             }
         }
-    }
     return true;
 }
 
