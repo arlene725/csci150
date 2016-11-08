@@ -71,6 +71,7 @@ void MainWindow::on_schedButt_clicked()
 {
     if(classes > 0)
     {
+        added.clear();
         int totUnits = 0;
         addcourse(possibles[0]);
         totUnits += possibles[0]->getUnits();
@@ -81,11 +82,11 @@ void MainWindow::on_schedButt_clicked()
             {
                 for(int j = 0; j < i; j++)
                 {
-                    if(canadd(possibles[i], possibles[j]))
+                    if(canadd(possibles[j], possibles[i]))
                     {
                         addcourse(possibles[i]);
                         QMessageBox msg;
-                        msg.setText(QString::fromStdString(possibles[j]->toString()));
+                        msg.setText(QString::fromStdString(possibles[i]->toString()));
                         msg.exec();
                         totUnits += possibles[i]->getUnits();
                     }
@@ -96,6 +97,7 @@ void MainWindow::on_schedButt_clicked()
     dispSched();
 }
 
+// Displays schedule
 void MainWindow::dispSched()
 {
     course * o;
@@ -141,7 +143,6 @@ void MainWindow::dispSched()
         }
     }
 }
-
 
 // Processed when submit button is pressed. Does minimal testing on input data and creates new section.
 void MainWindow::on_pushButton_clicked()
@@ -233,6 +234,7 @@ void MainWindow::on_pushButton_clicked()
     }
 }
 
+// Clears all the elements of the new course tab
 void MainWindow::clearAll()
 {
     ui->classNameBox->clear();
@@ -248,6 +250,7 @@ void MainWindow::clearAll()
     ui->endTime->setTime(QTime(8,0));
 }
 
+// Adds a course to the prospective course table
 void MainWindow::addToTable(course *s)
 {
     ui->sectTable->setSortingEnabled(false);

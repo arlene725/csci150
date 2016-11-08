@@ -19,5 +19,4 @@ SOURCES += main.cpp\
 HEADERS  += mainwindow.h \
     section.h
 
-FORMS    += mainwindow.ui \
-    scheddialog.ui
+FORMS    += mainwindow.ui
