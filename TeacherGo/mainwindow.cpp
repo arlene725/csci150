@@ -69,6 +69,7 @@ void MainWindow::load()
 //Creates schedule from possibles when button clicked
 void MainWindow::on_schedButt_clicked()
 {
+    bool cAdd;
     if(classes > 0)
     {
         added.clear();
@@ -80,16 +81,18 @@ void MainWindow::on_schedButt_clicked()
         {
             if(possibles[i]->getUnits() + totUnits <= ui->unitsDesBox->value())
             {
+                cAdd = true;
                 for(int j = 0; j < i; j++)
                 {
-                    if(canadd(possibles[j], possibles[i]))
+                    if(!canadd(possibles[j], possibles[i]))
                     {
-                        addcourse(possibles[i]);
-                        QMessageBox msg;
-                        msg.setText(QString::fromStdString(possibles[i]->toString()));
-                        msg.exec();
-                        totUnits += possibles[i]->getUnits();
+                        cAdd = false;
                     }
+                }
+                if (cAdd)
+                {
+                    addcourse(possibles[i]);
+                    totUnits += possibles[i]->getUnits();
                 }
             }
         }
