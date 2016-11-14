@@ -1,0 +1,3972 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox flexboxlegacy canvas canvastext no-touch geolocation hashchange history draganddrop rgba backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage applicationcache svg inlinesvg svgclippaths"><!--<![endif]--><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="google-site-verification" content="F8gUuqzRvOrAlhaGyP7aAuMs_Se8zK-98Ai2sNsIZEo" />
+    <meta name="google-site-verification" content="hk1NnSbYuDC0Sppgbf7YIT-VxUiRbOVRdtqA4AmkGzM" />
+    <meta name="google-site-verification" content="CKMC_IwvKoVbX1U8x1A9yzKABsSlop6qxfuDzwfV7Qs" /> <!--  relaunch qa -->
+    <meta name="google-site-verification" content="1D_3ZfAdMu4Tki8pFRj68YAqYot-paTOoDVzCTIJZZI" /> <!--  relaunch rmp -->
+    <meta name="google-signin-client_id" content="14147781149-i5ph5oqooelp3k0qfrb3jkk6vs4528ha.apps.googleusercontent.com" />
+    <link rel="stylesheet" href="/assets/application-89d2fdaeba420b94e45650ec34c5ef31.css" />
+    <script src="https://pagead2.googlesyndication.com/pagead/osd.js"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.RSFxnXzjQAM.O/m=client/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCPACeunL5EkGbC0Kawrc9r572JXPA/cb=gapi.loaded_0" async=""></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="/assets/libs/jquery-7f5fea5cae853e98f1d3f5d509216bd4.js" type="text/javascript"></script>
+    <script src="/assets/libs/cookie-a754825244f3c1c61d82143b07a90a75.js" type="text/javascript"></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+      <meta name="robots" content="all" />
+    
+    <meta name="description" content="Rate My Professors is the best college professor reviews and ratings source based on student feedback. Over 1.8 million professors and 15 million reviews. Find and rate a professor!" />
+    <title>Rate My Professors -  Review Teachers and Professors, School Reviews, College Campus Ratings</title>
+    <meta property="og:url" content="http://www.ratemyprofessors.com/campusRatings.jsp?sid=161" />
+    <meta property="og:title" content="California State University Fresno in Fresno, CA - RateMyProfessors.com" />
+    <meta property="og:description" content="See how California State University Fresno in Fresno, CA stacks up on Rate My Professors." />
+    
+       <meta property="og:image" content="http://www.ratemyprofessors.com/assets/RMP_logo.png" />
+    
+
+    <meta property="og:type" content="website" />
+
+    
+    
+    <link rel="icon" href="/images/favicon-16.png" />
+    <link rel="icon" sizes="32×32" href="/images/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/images/favicon-57.png" />
+    <link rel="apple-touch-icon" sizes="48×48" href="/images/favicon-48.png" />
+    <link rel="apple-touch-icon" sizes="72×72" href="/images/favicon-72.png" />
+    <link rel="apple-touch-icon" sizes="114×114" href="/images/favicon-114.png" />
+    <link rel="apple-touch-icon" sizes="152×152" href="/images/favicon-152.png" />
+    <link rel="apple-touch-icon-precomposed" href="/images/favicon-196.png" />
+    <!--[if IE]><link rel="shortcut icon" href="/images/favicon-16.ico" /> <![endif]-->
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="/images/favicon-16.png" />
+    <script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded)
+    { var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; }
+    _fbq.push(['addPixelId', '331289063738687']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript>&lt;img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=331289063738687&amp;ev=PixelInitialized" /&gt;</noscript>
+
+    
+    
+    
+    
+
+  <script type="text/javascript" src="//mtvn.demdex.net/event?d_stuff=1&amp;d_dst=1&amp;d_rtbd=json&amp;d_cts=1&amp;d_cb=aam_tnt_cb"></script><script type="text/javascript" src="https://sb.scorecardresearch.com/beacon.js?c1=2&amp;c2=6036034&amp;c3=&amp;c4=https%253A%2F%2Fwww.ratemyprofessors.com%2FcampusRatings.jsp%253Fsid%253D161&amp;c5=20000&amp;c6=&amp;c15="></script><style>.balaMainContainer {display:table; vertical-align:top; position:fixed; background-color:#EEE; bottom:0px; border:0px solid red; padding: 0px 0px 0px 0px; color:#000; z-index:2147483647; width:100%; margin:0px;}.balaTextContainer {border:0px solid blue; text-align:left; vertical-align:middle; display:table-cell; padding: 10px 10px 10px 15px; margin:0px; font-size:18px;}.balaImageContainer {border:0px solid green; vertical-align:middle; display:table-cell; text-align:right; padding:10px 10px 10px 0px; width:50px;}.balaCloseImage {width:35px; height:35px;cursor:pointer;}a.balaLink {text-decoration: underline; color:#00aaff;}@media only screen and (min-device-width: 320px) and (max-device-width: 640px){.balaTextContainer {font-size:14px;-webkit-text-size-adjust: 100%;}}</style><script type="text/javascript" src="//mtvn.demdex.net/event?d_rtbd=json&amp;d_dst=1&amp;d_cts=1&amp;d_cb=btg.Demdex.response&amp;c_uuid=null&amp;c_visit=www.ratemyprofessors.com_visit"></script><script type="text/javascript" src="//mtvn.demdex.net/event?d_rtbd=json&amp;d_dst=1&amp;d_cts=1&amp;d_cb=btg.Demdex.response&amp;c_pageName=%2Fschools%2FCalifornia%20State%20University%20Fresno&amp;c_ch=schools&amp;c_v49=schools&amp;c_heir2=%2Fschools%2FCalifornia%20State%20University%20Fresno&amp;c_c2=United%20States&amp;c_c5=CA&amp;c_c6=California%20State%20University%20Fresno&amp;c_c8=visitor&amp;c_c9=161&amp;c_section=school&amp;c_schoolid=161&amp;c_h2=schools%2FCalifornia%20State%20University%20Fresno&amp;c_events=event16&amp;c_c41=New&amp;c_host=www.ratemyprofessors.com"></script><script src="https://partner.googleadservices.com/gpt/pubads_impl_104.js" async=""></script><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-5/html/container.html" /><script type="text/javascript" src="//mtvn.demdex.net/event?d_rtbd=json&amp;d_dst=1&amp;d_cts=1&amp;d_cb=btg.Demdex.response&amp;c_linkName=Bala&amp;c_linkType=o&amp;c_lnk=true&amp;c_referrer=https%3A%2F%2Fwww.ratemyprofessors.com%2FcampusRatings.jsp%3Fsid%3D161&amp;c_host=www.ratemyprofessors.com"></script><script type="text/javascript" src="//mtvn.demdex.net/event?d_rtbd=json&amp;d_dst=1&amp;d_cts=1&amp;d_cb=btg.Demdex.response&amp;c_linkName=PROFMIDPANE%3AComboBox&amp;c_linkType=o&amp;c_lnk=true&amp;c_referrer=https%3A%2F%2Fwww.ratemyprofessors.com%2FcampusRatings.jsp%3Fsid%3D161&amp;c_host=www.ratemyprofessors.com"></script></head>
+  <body class="show_school">
+
+    
+    <!-- <div class="overlay"></div> -->
+    <!--do not modify this script -->
+    <div id="mobileNav" class="slide">
+      <div class="mobile_nav_wrap">
+        <div class="navItems">
+          <ul class="menuNav">
+            <!-- One Menu Item -->
+            <li>
+              <a href="/mobile/professor_search">
+                <span class="icon icon-professor"></span>
+                <span class="title">Professors</span>
+                <span class="arrow"></span>
+              </a>
+            </li>
+            <!-- One Menu Item -->
+
+            <!-- One Menu Item -->
+            <li>
+              <a href="/mobile/school_search">
+                <span class="icon icon-school"></span>
+                <span class="title">Schools</span>
+                <span class="arrow"></span>
+              </a>
+            </li>
+            <!-- One Menu Item -->
+
+            <!-- One Menu Item -->
+            <li>
+              <a href="/mobile/rate_search">
+                <span class="icon icon-rate"></span>
+                <span class="title">Rate</span>
+                <span class="arrow"></span>
+              </a>
+            </li>
+            <!-- One Menu Item -->
+
+            <!-- One Menu Item -->
+            <li>
+              <a href="/mobile/blog">
+                <span class="icon icon-blog"></span>
+                <span class="title">Blog</span>
+                <span class="arrow"></span>
+              </a>
+            </li>
+            <!-- One Menu Item -->
+
+            <!-- One Menu Item -->
+       <li id="mobilemyProfContainer" class="hide">
+                  <a href="/mobile/myprofs">
+                    <span class="icon icon-my-profs"></span>
+                    <span class="title">My Profs</span>
+                    <span class="arrow"></span>
+                  </a>
+             </li>
+             <script type="text/template" id="my-professor-result-template">
+          &lt;li id = "my-professor-{{id}}"&gt;
+           &lt;a href="/ShowRatings.jsp?tid={{id}}&amp;showMyProfs=true"&gt;
+            &lt;span class="{{ratingclass}}-icon"&gt;&lt;/span&gt;
+           &lt;span class="remove-this-button" data-id="{{id}}"&gt;&amp;#215;&lt;/span&gt;
+           &lt;span class="rating"&gt;{{overall_rating}}&lt;/span&gt;
+           &lt;span class="name"&gt;{{plname}}, {{{pfname}}}
+              &lt;span class="info"&gt;{{rating_count}} RATINGS&lt;/span&gt;
+            &lt;/span&gt;
+         &lt;/a&gt;
+       &lt;/li&gt;
+      </script>
+            <!-- One Menu Item -->
+
+            <!-- Not Logged In -->
+            <div id="mobileLoginSectionContainer">
+              
+  <!-- Need ajax widget -->
+  <li class="mobile_login logged_off">
+    <a href="/member">
+      <span class="mobile_login_text">log In</span>
+      <span class="arrow"></span>
+    </a>
+  </li>
+
+
+            </div>
+            <li id="mobileSocial">
+              <ul>
+                <li><a href="https://www.facebook.com/RateMyProfessor" class="icon-facebook" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:facebook', linkType:'o' } );"></a></li>
+                <li><a href="https://twitter.com/ratemyprofessor" class="icon-twitter" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:twitter', linkType:'o' } );"></a></li>
+                <li><a href="http://ratemyprofessors.tumblr.com/" class="icon-tumblr" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:tumblr', linkType:'o' } );"></a></li>
+                <li><a href="http://www.pinterest.com/ratemyprofessor/" class="icon-pinterest" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:pinterest', linkType:'o' } );"></a></li>
+                <li><a href="http://instagram.com/ratemyprofessors" class="icon-instagram" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:instagram', linkType:'o' } );"></a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Starts The Page Wrap -->
+    <div id="container" style="position: relative;">
+      <div class="overlay"></div>
+      <!-- Begins Mobile Header -->
+      <div id="mobileHeader" class="slide">
+        <a id="mobileHamburger" href="#"><span></span></a>
+        <a href="/" id="mLogo"></a>
+        <a href="#" class="icon-search"></a>
+        <div class="mobileSearch">
+          <div id="mSearchBox">
+            <form class="main-search-form" action="/search.jsp"><input id="msearchr" name="query" placeholder="Search ..." class="ui-autocomplete-input" autocomplete="off" type="search" /><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span></form>
+          </div>
+          <div id="headerAutocomplete">
+            <div class="results-container">
+              <div id="header-results">
+                <div class="professor-list">
+                  <div class="label">Professors</div>
+                  <ul></ul>
+                  <a href="/search.jsp?queryBy=teacherName&amp;query=%7B%7Brequestparam%7D%7D" class="view-all view-all-professors">View All Professors</a>
+                </div>
+                <div class="school-list">
+                  <div class="label">Schools</div>
+                  <ul></ul>
+                  <a href="/search.jsp?queryBy=schoolName&amp;query=%7B%7Brequestparam%7D%7D" class="view-all view-all-schools">View All Schools</a>
+                </div>
+              </div>
+              <div id="header-no-results">
+                Sorry No Results Found
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="mobileLeaderboardAd" class="top-header"><div id="mobileLeaderboardAdWrap"></div></div>
+      <!-- Ends Mobile Header -->
+
+      
+        <section class="top-header">
+  <div id="ad1x1" data-ad-sizes="1x1" data-ad-keyvalues="" data-ad-reload-interval="-1" style=""><div id="coda_ad_1x1_2" data-ad-sizes="1x1" data-ad-reload-interval="-1" style="position: absolute; visibility: hidden;" data-google-query-id="CMKerLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_1" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_1" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="1" frameborder="0" width="1"></iframe></div></div></div>
+  <div id="ad1x2" data-ad-sizes="1x2" data-ad-keyvalues="" data-ad-reload-interval="-1" style=""><div id="coda_ad_1x2_3" data-ad-sizes="1x2" data-ad-reload-interval="-1" style="position: absolute; visibility: hidden;" data-google-query-id="CMOerLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_2__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_2" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_2" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="1" frameborder="0" width="1"></iframe></div></div></div>
+  <div id="ad3x3" data-ad-sizes="3x3" data-ad-keyvalues="" data-ad-reload-interval="-1" style=""><div id="coda_ad_3x3_4" data-ad-sizes="3x3" data-ad-reload-interval="-1" style="position: absolute; visibility: hidden;" data-google-query-id="CMSerLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_3__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_3" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_3" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="1" frameborder="0" width="1"></iframe></div></div></div>
+  <div id="ad6x6" data-ad-sizes="6x6" data-ad-keyvalues="" data-ad-reload-interval="-1" style=""><div id="coda_ad_6x6_5" data-ad-sizes="6x6" data-ad-reload-interval="-1" style="position: absolute; visibility: hidden;" data-google-query-id="CMWerLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_4__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_4" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_4" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="1" frameborder="0" width="1"></iframe></div></div></div>
+  <article id="mtv_lead_1" class="ad leaderboard_ad">
+  	<div id="ad728" style="text-align: center;"><div id="coda_ad_728x90_1" data-ad-sizes="728x90" data-google-query-id="CMGerLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_0" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="90" frameborder="0" width="728"></iframe></div><iframe id="google_ads_iframe_8675/rmp_web/school_0__hidden__" title="" name="google_ads_iframe_8675/rmp_web/school_0__hidden__" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom; visibility: hidden; display: none;" srcdoc="" height="0" frameborder="0" width="0"></iframe></div></div>
+  </article>
+</section>
+
+
+        <!-- Starts Header -->
+        <header>
+  <div class="overlay"></div>
+  <a href="/" id="logo" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:Logo', linkType:'o' } );"></a>
+  <!-- Starts the header search box -->
+  <div id="searchBox">
+    <div class="searchBox-wrapper">
+      <form class="main-search-form" method="GET" action="/search.jsp"><input id="searchr" name="query" placeholder="Search for a professor or school" autocomplete="off" autocorrect="off" spellcheck="false" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SEARCH:Filter', linkType:'o' } );" class="ui-autocomplete-input" type="text" /><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span></form>
+      <div id="tablet-social-dropdown">
+        <div class="tablet-social">
+          <span class="social-text">Follow us</span>
+        </div>
+        <div class="tablet-social-list">
+          <ul>
+            <a href="https://www.facebook.com/RateMyProfessor" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:facebook', linkType:'o' } );">
+              <li class="icon-facebook">
+                <span class="text-social">facebook</span>
+              </li>
+            </a>
+            <a href="https://twitter.com/ratemyprofessor" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:twitter', linkType:'o' } );">
+              <li class="icon-twitter">
+                <span class="text-social">twitter</span>
+              </li>
+            </a>
+            <a href="http://ratemyprofessors.tumblr.com/" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:tumblr', linkType:'o' } );">
+              <li class="icon-tumblr">
+                <span class="text-social">tumblr</span>
+              </li>
+            </a>
+            <a href="http://www.pinterest.com/ratemyprofessor/" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:pinterest', linkType:'o' } );">
+              <li class="icon-pinterest">
+                <span class="text-social">pinterest</span>
+              </li>
+            </a>
+            <a href="http://instagram.com/ratemyprofessors" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:instagram', linkType:'o' } );">
+              <li class="icon-instagram">
+                <span class="text-social">instagram</span>
+              </li>
+            </a>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="headerAutocomplete">
+      <div class="results-container">
+        <div id="header-results">
+          <div class="professor-list">
+            <div class="label">Professors</div>
+            <ul></ul>
+            <a href="/search.jsp?queryBy=teacherName&amp;query=%7B%7Brequestparam%7D%7D" class="view-all view-all-professors">View All Professors</a>
+          </div>
+          <div class="school-list">
+            <div class="label">Schools</div>
+            <ul></ul>
+            <a href="/search.jsp?queryBy=schoolName&amp;query=%7B%7Brequestparam%7D%7D" class="view-all view-all-schools">View All Schools</a>
+          </div>
+        </div>
+        <div id="header-no-results">
+          Sorry No Results Found
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Ends the header search box -->
+
+  <!-- Starts the Head Social Bar -->
+  <div id="headSocial">
+    <ul>
+      <li><a href="https://www.facebook.com/RateMyProfessor" class="icon-facebook" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:facebook', linkType:'o' } );"></a></li>
+      <li><a href="https://twitter.com/ratemyprofessor" class="icon-twitter" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:twitter', linkType:'o' } );"></a></li>
+      <li><a href="http://ratemyprofessors.tumblr.com/" class="icon-tumblr" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:tumblr', linkType:'o' } );"></a></li>
+      <li><a href="http://www.pinterest.com/ratemyprofessor/" class="icon-pinterest" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:pinterest', linkType:'o' } );"></a></li>
+      <li><a href="http://instagram.com/ratemyprofessors" class="icon-instagram" target="_blank" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'GLOBAL:instagram', linkType:'o' } );"></a></li>
+    </ul>
+  </div>
+  <!-- Ends the Head Social Bar -->
+  <div id="desktopLoginSectionContainer" class="processed">
+    
+	<!-- Need ajax widget -->
+	<a href="/member" id="login" class="loggedout">
+		<span class="welcome-tablet">Log In</span>
+		<span class="welcome"> Log In / Sign Up </span>
+	</a>
+
+
+  </div>
+</header>
+
+        <!-- Ends Header -->
+
+        <!-- Starts left Nav -->
+        
+  <aside id="leftNav" class="height-col">
+    <div id="leftOverlay"></div>
+    <!-- Starts Left Menus -->
+    <div id="menuWrap" style="height: 671px;">
+
+
+      <!-- Prof Menu -->
+      <div id="profMenu" class="menu">
+        <div class="header">Find a Professor</div>
+        <div class="prof-block-form">
+<div class="center-block-form">
+  <div class="h1">Find a Professor</div>
+  <div class="search-by" data-search="profMenu">
+    <span class="label">SEARCH BY</span>
+    <a href="javascript:void(0)" data-type="professor-names" class="active" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byname', linkType:'o' } );">Name</a>
+    <a href="javascript:void(0)" data-type="professor-locations" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byschool', linkType:'o' } );">School</a>
+  </div>
+   <form action="/search.jsp?id=prof-name" method="get" name="prof-name" class="professor-names" id="prof-name">
+    <input name="queryoption" value="HEADER" id="queryoption" type="hidden" />
+    <input name="queryBy" value="teacherName" id="queryBy" type="hidden" />
+    <div class="search-info">
+      <div class="optional-flag">
+        <span class="line-form-txt">I'm looking for a professor at</span>
+        <div class="drop-down-fix">
+              <input id="searchProfessorSchool2" data-type="school" name="schoolName" placeholder="your school" autocorrect="off" autocomplete="off" class="ui-autocomplete-input" type="text" /><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+                <input class="schoolID" name="schoolID" id="nameprofid" type="hidden" />
+              <div id="profauContainer2" class="autocomplete-container">
+               <ul style="display: none;"></ul>
+              </div>
+                <!-- <span class="optional-content">Optional</span>-->
+              </div>
+
+              <span class="line-form-txt">named</span>
+        <div class="drop-down-fix">
+
+        <input name="query" id="searchProfessorName" data-type="name" placeholder="professor's name" autocorrect="off" autocomplete="off" required="" class="ui-autocomplete-input" type="text" /><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+                <div id="profNameAc" class="autocomplete-container">
+                  <ul style="display: none;"></ul>
+                </div>
+                <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+            </div>
+        </div>
+
+        <div class="cta">
+          <input name="_action_search" value="Search" id="prof-name-btn" type="submit" />
+          <a class="reset-search-form" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byname_cancel', linkType:'o' } );">cancel</a>
+        </div>
+      </div>
+   </form>
+
+  <form action="/search.jsp?id=prof-location" method="get" name="prof-location" class="professor-locations" id="prof-location">
+    <input name="queryoption" value="TEACHER" id="queryoption" type="hidden" />
+    <input name="queryBy" value="schoolDetails" id="queryBy" type="hidden" />
+    <input class="schoolID" name="schoolID" type="hidden" />
+
+    <div class="search-info">
+      <span class="inline-form-txt">I'm looking for professors at</span>
+      <div class="drop-down-fix">
+         <input id="searchProfessorSchool" data-type="school" name="schoolName" placeholder="your school" autocorrect="off" autocomplete="off" required="" onchange="clearDepartmentDropDown();" onkeyup="clearDepartmentDropDown();" class="ui-autocomplete-input" type="text" /><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+         <div id="profauContainer" class="autocomplete-container searchProfessorSchoolAC">
+          <ul style="display: none;"></ul>
+         </div>
+         <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+      </div>
+      <div class="h2">in the</div>
+      <div class="no-default">
+        <span class="sod_select " tabindex="0" data-cycle="false" data-links="false" data-links-external="false" data-placeholder-option="false" data-filter=""><span class="sod_label">select</span><span class="sod_list_wrapper"><span class="sod_list" style="max-height: 36px;"><span class="sod_option  selected active " title="select" data-value="select">select</span></span></span><select name="dept" id="searchProfessorDepartment" data-type="department" data-placeholder-option="false" data-size="10" onchange="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byschool_deptdropdown', linkType:'o' } );">
+          <option>select</option>
+        </select></span>
+      </div>
+      <span class="inline-form-txt"> department.</span>
+
+    <div class="cta">
+      <input name="_action_search" value="Search" id="prof-location-btn" type="submit" />
+      <a class="reset-search-form" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Profs_byschool_cancel', linkType:'o' } );">cancel</a>
+    </div>
+
+    </div>
+  </form>
+
+
+   </div>
+  </div>
+      </div>
+      <!-- Ends Prof menu -->
+
+      <!-- School Menu -->
+      <div id="schoolMenu" class="menu">
+        <div class="header">Edit your school search</div>
+        <div class="school-block-form">
+  <div class="center-block-form">
+    <div class="h1 mobile-header">Find a School</div>
+    <div class="h1 header">Edit your school search</div>
+    <div class="search-by" data-search="schoolMenu">
+      <span class="label">SEARCH BY</span>
+      <a href="javascript:void(0)" data-type="school-names" class="active" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_byname', linkType:'o' } );clearSearchValidation();">Name</a>
+      <a href="javascript:void(0)" data-type="school-locations" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_bylocation', linkType:'o' } );clearSearchValidation();">Location</a>
+    </div>
+    <form action="/search.jsp?id=schoolNames" method="get" name="schoolNames" class="searchform school-names" id="schoolNames">
+      <input name="queryoption" value="HEADER" id="queryoption" type="hidden" />
+      <input name="queryBy" value="schoolName" id="queryBy" type="hidden" />
+      <div class="search-info">
+        <div class="drop-down-fix">
+          <input onfocus="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_byname_schooltypeahead', linkType:'o' } );" id="schoolName" name="query" placeholder="school's name" autocorrect="off" autocomplete="off" required="" class="ui-autocomplete-input" type="text" /><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+          <div id="schoolauContainer" class="autocomplete-container">
+            <ul style="display: none;"></ul>
+          </div>
+          <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+        </div>
+        <div class="info">
+          Looking for a professor by school/department?
+          <a href="/search.jsp?queryBy=teacherName&amp;queryoption=HEADER&amp;query=*&amp;facetSearch=true" class="click-here lowercase">Click here.</a>
+        </div>
+        <div class="cta">
+         <input value="Search" action="search" id="schoolNames-btn" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_byname_search', linkType:'o' } );" type="submit" />
+          <br />
+          <a class="reset-search-form">CANCEL</a>
+          <div class="left-info">
+            Looking for a professor by school/department?
+            <a href="/search.jsp?queryBy=teacherName&amp;queryoption=HEADER&amp;query=*&amp;facetSearch=true" class="click-here lowercase">Click here.</a>
+          </div>
+        </div>
+      </div>
+    </form>
+    <form action="/search.jsp" method="get" name="schoollocations" class="searchform school-locations" id="schoollocations">
+      <input name="queryoption" value="HEADER" id="queryoption" type="hidden" />
+      <input name="queryBy" value="schoolName" id="queryBy" type="hidden" />
+      <input name="country" value="united states" id="country" type="hidden" />
+      <input name="facetSearch" value="true" id="facetSearch" type="hidden" />
+      <div class="search-info">
+        <span class="line-form-txt"><div class="h2">I'm looking for a school in </div></span>
+        <div class="select-wraper">
+          <span class="sod_select " tabindex="0" data-cycle="false" data-links="false" data-links-external="false" data-placeholder-option="false" data-filter=""><span class="sod_label">select state</span><span class="sod_list_wrapper"><span class="sod_list" style="max-height: 360px;"><span class="sod_option  selected active " title="select state" data-value="">select state</span><span class="sod_option " title="Alaska" data-value="ak">Alaska</span><span class="sod_option " title="Alabama" data-value="al">Alabama</span><span class="sod_option " title="Arkansas" data-value="ar">Arkansas</span><span class="sod_option " title="Arizona" data-value="az">Arizona</span><span class="sod_option " title="California" data-value="ca">California</span><span class="sod_option " title="Colorado" data-value="co">Colorado</span><span class="sod_option " title="Connecticut" data-value="ct">Connecticut</span><span class="sod_option " title="Washington DC" data-value="dc">Washington DC</span><span class="sod_option " title="Delaware" data-value="de">Delaware</span><span class="sod_option " title="Florida" data-value="fl">Florida</span><span class="sod_option " title="Georgia" data-value="ga">Georgia</span><span class="sod_option " title="Hawaii" data-value="hi">Hawaii</span><span class="sod_option " title="Iowa" data-value="ia">Iowa</span><span class="sod_option " title="Idaho" data-value="id">Idaho</span><span class="sod_option " title="Illinois" data-value="il">Illinois</span><span class="sod_option " title="Indiana" data-value="in">Indiana</span><span class="sod_option " title="Kansas" data-value="ks">Kansas</span><span class="sod_option " title="Kentucky" data-value="ky">Kentucky</span><span class="sod_option " title="Louisiana" data-value="la">Louisiana</span><span class="sod_option " title="Massachusetts" data-value="ma">Massachusetts</span><span class="sod_option " title="Maryland" data-value="md">Maryland</span><span class="sod_option " title="Maine" data-value="me">Maine</span><span class="sod_option " title="Michigan" data-value="mi">Michigan</span><span class="sod_option " title="Minnesota" data-value="mn">Minnesota</span><span class="sod_option " title="Missouri" data-value="mo">Missouri</span><span class="sod_option " title="Mississippi" data-value="ms">Mississippi</span><span class="sod_option " title="Montana" data-value="mt">Montana</span><span class="sod_option " title="North Carolina" data-value="nc">North Carolina</span><span class="sod_option " title="North Dakota" data-value="nd">North Dakota</span><span class="sod_option " title="Nebraska" data-value="ne">Nebraska</span><span class="sod_option " title="New Hampshire" data-value="nh">New Hampshire</span><span class="sod_option " title="New Jersey" data-value="nj">New Jersey</span><span class="sod_option " title="New Mexico" data-value="nm">New Mexico</span><span class="sod_option " title="Nevada" data-value="nv">Nevada</span><span class="sod_option " title="New York" data-value="ny">New York</span><span class="sod_option " title="Ohio" data-value="oh">Ohio</span><span class="sod_option " title="Oklahoma" data-value="ok">Oklahoma</span><span class="sod_option " title="Oregon" data-value="or">Oregon</span><span class="sod_option " title="Pennsylvania" data-value="pa">Pennsylvania</span><span class="sod_option " title="Rhode Island" data-value="ri">Rhode Island</span><span class="sod_option " title="South Carolina" data-value="sc">South Carolina</span><span class="sod_option " title="South Dakota" data-value="sd">South Dakota</span><span class="sod_option " title="Tennessee" data-value="tn">Tennessee</span><span class="sod_option " title="Texas" data-value="tx">Texas</span><span class="sod_option " title="Utah" data-value="ut">Utah</span><span class="sod_option " title="Virginia" data-value="va">Virginia</span><span class="sod_option " title="Vermont" data-value="vt">Vermont</span><span class="sod_option " title="Washington" data-value="wa">Washington</span><span class="sod_option " title="Wisconsin" data-value="wi">Wisconsin</span><span class="sod_option " title="West Virginia" data-value="wv">West Virginia</span><span class="sod_option " title="Wyoming" data-value="wy">Wyoming</span></span></span><select onchange="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_bylocation_statedropdown', linkType:'o' } );" id="schoolState" name="stateselect" required="" data-placeholder-option="false" data-size="10">
+<option value="">select state</option>
+<option value="ak">Alaska</option>
+<option value="al">Alabama</option>
+<option value="ar">Arkansas</option>
+<option value="az">Arizona</option>
+<option value="ca">California</option>
+<option value="co">Colorado</option>
+<option value="ct">Connecticut</option>
+<option value="dc">Washington DC</option>
+<option value="de">Delaware</option>
+<option value="fl">Florida</option>
+<option value="ga">Georgia</option>
+<option value="hi">Hawaii</option>
+<option value="ia">Iowa</option>
+<option value="id">Idaho</option>
+<option value="il">Illinois</option>
+<option value="in">Indiana</option>
+<option value="ks">Kansas</option>
+<option value="ky">Kentucky</option>
+<option value="la">Louisiana</option>
+<option value="ma">Massachusetts</option>
+<option value="md">Maryland</option>
+<option value="me">Maine</option>
+<option value="mi">Michigan</option>
+<option value="mn">Minnesota</option>
+<option value="mo">Missouri</option>
+<option value="ms">Mississippi</option>
+<option value="mt">Montana</option>
+<option value="nc">North Carolina</option>
+<option value="nd">North Dakota</option>
+<option value="ne">Nebraska</option>
+<option value="nh">New Hampshire</option>
+<option value="nj">New Jersey</option>
+<option value="nm">New Mexico</option>
+<option value="nv">Nevada</option>
+<option value="ny">New York</option>
+<option value="oh">Ohio</option>
+<option value="ok">Oklahoma</option>
+<option value="or">Oregon</option>
+<option value="pa">Pennsylvania</option>
+<option value="ri">Rhode Island</option>
+<option value="sc">South Carolina</option>
+<option value="sd">South Dakota</option>
+<option value="tn">Tennessee</option>
+<option value="tx">Texas</option>
+<option value="ut">Utah</option>
+<option value="va">Virginia</option>
+<option value="vt">Vermont</option>
+<option value="wa">Washington</option>
+<option value="wi">Wisconsin</option>
+<option value="wv">West Virginia</option>
+<option value="wy">Wyoming</option>
+</select></span>
+        </div>
+        <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+      </div>
+      <div class="info">
+        Looking for a professor by school/department?
+        <a href="/mobile/professor_search" class="click-here lowercase">Click here.</a>
+      </div>
+      <div class="cta">
+        <input id="schoolLocationz" name="schoolLocationz" value="Search" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:School_bylocation_search', linkType:'o' } );" type="submit" />
+        <a class="reset-search-form">CANCEL</a>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+      </div>
+      <!-- Ends school menu -->
+
+      <!-- Rate Menu -->
+      <div id="rateMenu" class="menu">
+
+        <div class="header">Rate a</div>
+        <div class="school-block-form">
+  <div class="h1">Rate a</div>
+  <div class="search-by" data-search="rateMenu">
+    <a href="javascript:void(0)" data-type="rate-professor" class="active" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Rate_Prof', linkType:'o' } );">Professor</a>
+    <a href="javascript:void(0)" data-type="rate-schools" class="" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'LEFTNAV:Rate_School', linkType:'o' } );">School</a>
+  </div>
+  <form action="/search.jsp?id=rateProfessor" method="get" name="rateProfessor" class="searchform rate-professor" style="" id="rateProfessor">
+    <input name="queryoption" value="HEADER" id="queryoption" type="hidden" />
+    <input name="queryBy" value="teacherName" id="queryBy" type="hidden" />
+    <div class="search-info">
+      <span class="wrap">
+        I want to rate <br />
+        <input id="rateProfessorAC" name="query" placeholder="Professor's Name" required="" class="ui-autocomplete-input" autocomplete="off" type="text" /><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+        <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+        <div id="rateProfAC" class="autocomplete-container">
+          <ul style="display: none;"></ul>
+        </div>
+      </span>
+    </div>
+    <div class="cta">
+      <input value="Search" id="rateProfessor-btn" type="submit" /> <br />
+      
+      <a class="reset-search-form">cancel</a>
+    </div>
+  </form>
+  <form action="/search.jsp?id=rateSchool" method="get" name="rateSchool" class="searchform rate-schools" style="" id="rateSchool">
+    <input name="queryoption" value="HEADER" id="queryoption" type="hidden" />
+    <input name="queryBy" value="schoolName" id="queryBy" type="hidden" />
+    <div class="search-info">
+      <span class="wrap">
+        I want to rate <br />
+        <input id="schoolName" name="query" placeholder="School's Name" required="" class="ui-autocomplete-input" autocomplete="off" type="text" /><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+        <span class="error-message" id="leftNav_error-message-align">This field is required.</span>
+        <div id="rateSchoolAC" class="autocomplete-container">
+          <ul style="display: none;"></ul>
+        </div>
+      </span>
+    </div>
+    <div class="cta">
+      <input value="Search" id="rateSchool-btn" type="submit" /> <br />
+      
+      <a class="reset-search-form">cancel</a>
+    </div>
+  </form>
+</div>
+      </div>
+      <!-- Ends Rate Menu -->
+
+      <!-- Blog Menu -->
+      
+  	    <div id="blogMenu" class="menu js-blog-menu-global">
+  	      <div class="blogMenu-inner">
+  		      <div class="header">Rate My Professors Blog</div>
+  		      <a class="close-left-nav close-this">×</a>
+<div class="clearfix"></div>
+<div class="panel-filter">
+  <div class="result-count">
+    <div class="sort-option">
+      
+        <span class="sod_select " tabindex="0" data-cycle="false" data-links="false" data-links-external="false" data-placeholder-option="false" data-filter=""><span class="sod_label">All Categories</span><span class="sod_list_wrapper"><span class="sod_list" style="max-height: 170px;"><span class="sod_option  selected active " title="All Categories" data-value="All">All Categories</span><span class="sod_option " title="RMP Buzz" data-value="RMP Buzz">RMP Buzz</span><span class="sod_option " title="Video" data-value="Professors Strike Back">Video</span><span class="sod_option " title="Top Lists" data-value="Lists">Top Lists</span><span class="sod_option " title="Miscellaneous" data-value="Misc.">Miscellaneous</span></span></span><select id="blog-filter" name="blogfilter" class="blog-filters">
+<option value="All">All Categories</option>
+<option value="RMP Buzz">RMP Buzz</option>
+<option value="Professors Strike Back">Video</option>
+<option value="Lists">Top Lists</option>
+<option value="Misc.">Miscellaneous</option>
+</select></span>
+      
+		</div>
+  </div>
+</div>
+<div class="result-list">
+  <ul id="blog-item-list">
+    <li>
+      <a href="/blog/buzzpost/four-reasons-to-download-the-ratemyprofessors-app/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/09/icon175x175.jpeg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>Four Reasons to Download the Rate My Professors App</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/toplist/the-2015-2016-annual-top-lists-are-here/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>Lists</span>
+          </div>
+          <p>The 2015-2016 Annual  Top Lists are here!</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/toplist/highest-rated-universities-of-2015-2016/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>Lists</span>
+          </div>
+          <p>Highest Rated Universities of 2015-2016</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/toplist/highest-rated-junior-and-community-colleges-of-2015-2016/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>Lists</span>
+          </div>
+          <p>Highest Rated Junior and Community Colleges of 2015-2016</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/toplist/highest-rated-university-professors-of-2015-2016/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>Lists</span>
+          </div>
+          <p>Highest Rated University Professors of 2015-2016</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/toplist/highest-rated-junior-and-community-college-professors-of-2015-2016/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>Lists</span>
+          </div>
+          <p>Highest Rated Junior and Community College Professors of 2015-2016</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/toplist/the-2015-2016-fun-lists/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/09/top-list-thumbnail-e1473700445300.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>Lists</span>
+          </div>
+          <p>The 2015-2016 Fun Lists</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/is-rmp-all-about-professor-bashing-or-just-the-opposite-rate-my-professors-investigates/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/08/Scale-Ratings-Thmb-5.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>Is RMP all about professor bashing, or just the opposite? Rate My Professors investigates…</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/students-cant-stop-raving-about-these-top-black-studies-professors/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/07/top.jpg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>Students can’t stop raving about these top Black Studies professors!</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/here-are-your-top-rated-lgbtq-studies-professors/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/06/t1rsz_1rsz_lgbt-2-e1466782872226.jpg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>Here are your top-rated LGBTQ Studies professors!</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/misc/rate-my-professors-users-have-spoken-find-out-the-results-of-rmps-2016-election-poll/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/06/votus-e1465328901946.jpg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>Miscellaneous</span>
+          </div>
+          <p>Rate My Professors users have spoken: find out the results of RMP’s 2016 election poll!</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/5-cool-summer-opportunities-that-will-boost-your-resume-and-get-you-off-the-couch/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/05/crop-e1463608181473.jpg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>5 cool summer opportunities that will boost your resume (and get you off the couch)</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/why-rating-your-school-helps-students-avoid-some-very-expensive-mistakes/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/05/dog-in-school-final-e1462565542261.jpg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>Why rating your school helps students avoid some very expensive mistakes</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/misc/election-poll-2016/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/04/election-thumbnail.jpg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>Miscellaneous</span>
+          </div>
+          <p>What issues matter most to you this election season?</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/these-life-changing-profs-lead-the-list-of-top-womens-studies-professors-in-the-country/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/03/fem-symbol-e1459269427581.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>RMP ranks the top Women’s Studies professors and departments in the country!</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/4-ways-to-spend-spring-break-like-a-boss-and-one-thing-to-avoid/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/03/summer-e1457987792168.jpg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>4 ways to spend spring break like a boss (and one thing to avoid)</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/students-weigh-in-on-5-blush-worthy-classes-on-love-and-sexuality/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/02/jono.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>Students weigh in on 5 blush-worthy classes on love and sexuality</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/students-rave-reviews-land-phenomenal-prof-1-spot-on-top-professors-list/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/02/tine-e1454694361914.jpg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>Students’ rave reviews land “phenomenal” prof #1 spot on Top Professors list</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/3-ways-rate-my-professors-can-help-you-crush-adddrop-period/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2016/02/success-baby.png" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>3 ways Rate My Professors can help you crush add/drop period</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  
+    <li>
+      <a href="/blog/buzzpost/yoda-legendary-jedi-warrior/">
+        <figure><img src="https://rmp-a.akamaihd.net/ssl//wp-content/uploads/2015/12/yoda-thumbnail.jpg" height="73" width="73" /></figure>
+        <div class="text-wrap">
+          <div class="tag">
+            <span>RMP Buzz</span>
+          </div>
+          <p>Yoda may be a legendary Jedi warrior, but is he a solid professor?</p>
+        </div>
+      </a>
+      <div class="clearfix"></div>
+    </li>
+  </ul>
+  <input value="LOAD MORE" id="loadmoreBlog" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'BLOG:LoadMore', linkType:'o' } );" type="submit" />
+
+  <!-- Blog item templates -->
+  <script type="text/template" id="blogitems">
+    &lt;li&gt;
+      &lt;a href="/{{actionUrl}}{{blogurl}}"&gt;
+        &lt;figure&gt;&lt;img src="{{imageurl}}" width="73" height="73" /&gt;&lt;/figure&gt;
+        &lt;div class="text-wrap"&gt;
+          &lt;div class="tag"&gt;
+            &lt;span&gt;{{category}}&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;p&gt;{{title}}&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+      &lt;div class = "clearfix"&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  </script>
+</div>
+  	   	  </div>
+  	    </div>
+       
+      <!-- Ends Blog Menu -->
+
+
+      <!-- My Profs Menu -->
+	      <div id="myProfsMenu" class="menu">
+	        <a class="close-left-nav close-this">×</a>
+<div class="header">Saved Professors</div>
+<hr />
+<div class="my-professors-result-list">
+  <ul>
+  </ul>
+  <p class="no-professors"></p>
+</div>
+
+<div class="myProfprogressbtnwrap" data-search-type="search">
+  <a href="#" class="content" id="myProfloadMore" data-teach-id="" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROF:LoadMore', linkType:'o' } );">Load More</a>
+  <div class="progress-bar"></div>
+</div>
+
+<script type="text/template" id="my-professor-result-template">
+  &lt;li id = "my-professor-{{id}}"&gt;
+    &lt;a href="/ShowRatings.jsp?tid={{id}}&amp;showMyProfs=true"&gt;
+      &lt;span class="{{ratingclass}}-icon"&gt;&lt;/span&gt;
+      &lt;span class="remove-this-button" data-id="{{id}}"&gt;&amp;#215;&lt;/span&gt;
+      &lt;span class="rating"&gt;{{overall_rating}}&lt;/span&gt;
+      &lt;span class="name"&gt;{{plname}}, {{{pfname}}}
+        &lt;span class="info"&gt;{{rating_count}} RATINGS&lt;/span&gt;
+      &lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+</script>
+	      </div>
+      <!-- Ends My Profs Menu -->
+
+    </div>
+    <!-- Ends Left Menu -->
+
+    <!-- Starts Left Nav -->
+    <nav id="navToggle">
+      <ul>
+
+        <li>
+          <a href="#" class="menu-item" id="profNav" data-menu="profMenu" onclick="clearSearchValidation();">
+            <span class="icon icon-professor"></span>
+            <span class="label">Profs</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="menu-item highlighted blocked" id="schoolNav" data-menu="schoolMenu" onclick="clearSearchValidation();">
+            <span class="icon icon-school"></span>
+            <span class="label">School</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="menu-item" data-menu="rateMenu">
+            <span class="icon icon-rate"></span>
+            <span class="label">Rate</span>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="menu-item" id="blogNav" data-menu="blogMenu">
+            <span class="icon icon-blog"></span>
+            <span class="label">Blog</span>
+          </a>
+        </li>
+
+        <li id="desktopmyProfContainer" class="hide">
+            <a href="#" class="menu-item" data-menu="myProfsMenu">
+                <div class="my-prof-notice">Click here to see all your saved professors.</div>
+                <span class="icon icon-my-profs"></span>
+                <span class="label">Saved</span>
+            </a>
+         </li>
+
+      </ul>
+
+    </nav>
+    <!-- Ends left Nav -->
+
+  </aside>
+
+        <!-- Ends Left Nav -->
+      
+
+      <!-- Starts Body Content -->
+
+      <div id="body" class="slide">
+        <div id="mainContent" class="height-col">
+          
+    <div class="left-panel" data-param-schoolid="161" data-param-campuspage="true" style="height: 489px;"><a class="toggle-left-panel close-this" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:" school:viewallprofs",="" linktype:"o"="" }="" );"="">×</a>
+      <div class="side-panel">
+        <div>
+          Showing professors at
+        </div>
+        <div>
+          <span class="school-name">California State University Fresno</span> <a id="edit" href="javascript:void(0)" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOLMIDPANE:Edit', linkType:'o' } );">Edit</a>
+        </div>
+        <div class="department-combobox">
+          in
+          <!--
+            use cookies to determine which department is selected
+            we also unfortunately have to replace html encoded spaces
+            since grails has auto-encoded them at some point
+          -->
+          <div class="combobox-container combobox-selected"> <input name="" value="Computer Science" type="hidden" /> <div class="input-group"> <input autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Enter Your Department" class="combobox" type="text" /><ul class="typeahead typeahead-long dropdown-menu" style="top: 34px; left: 0px; display: none;"><li data-value="Computer Science" class="active"><a href="#"><strong>Computer Science</strong></a></li></ul> <span class="input-group-addon dropdown-toggle" data-dropdown="dropdown"> <span class="caret"></span> <span class="glyphicon glyphicon-remove"></span> </span> </div> </div><select class="combobox" id="department-dropdown" onchange="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:ComboBox', linkType:'o' } );" style="display: none;">
+            <option value="">Enter Your Department</option>
+            
+              
+                <option value="Accounting">Accounting</option>
+              
+            
+              
+                <option value="African-American Studies">African-American Studies</option>
+              
+            
+              
+                <option value="Agribusiness">Agribusiness</option>
+              
+            
+              
+                <option value="Agricultural Engineering">Agricultural Engineering</option>
+              
+            
+              
+                <option value="Agriculture">Agriculture</option>
+              
+            
+              
+                <option value="American Indian Studies">American Indian Studies</option>
+              
+            
+              
+                <option value="Animal Science">Animal Science</option>
+              
+            
+              
+                <option value="Anthropology">Anthropology</option>
+              
+            
+              
+                <option value="Art">Art</option>
+              
+            
+              
+                <option value="Art History">Art History</option>
+              
+            
+              
+                <option value="Asian Pacific American Studies">Asian Pacific American Studies</option>
+              
+            
+              
+                <option value="Astronomy">Astronomy</option>
+              
+            
+              
+                <option value="Athletics">Athletics</option>
+              
+            
+              
+                <option value="Biology">Biology</option>
+              
+            
+              
+                <option value="Botany">Botany</option>
+              
+            
+              
+                <option value="Business Administration">Business Administration</option>
+              
+            
+              
+                <option value="Chemistry">Chemistry</option>
+              
+            
+              
+                <option value="Chicano Studies">Chicano Studies</option>
+              
+            
+              
+                <option value="Child &amp; Family Studies">Child &amp; Family Studies</option>
+              
+            
+              
+                <option value="Chinese">Chinese</option>
+              
+            
+              
+                <option value="Civil Engineering">Civil Engineering</option>
+              
+            
+              
+                <option value="Clothing &amp; Textiles">Clothing &amp; Textiles</option>
+              
+            
+              
+                <option value="Communication">Communication</option>
+              
+            
+              
+                <option value="Computer Science">Computer Science</option>
+              
+            
+              
+                <option value="Construction">Construction</option>
+              
+            
+              
+                <option value="Continuing &amp; Global Education">Continuing &amp; Global Education</option>
+              
+            
+              
+                <option value="Counseling, Special Ed &amp; Rehab">Counseling, Special Ed &amp; Rehab</option>
+              
+            
+              
+                <option value="Criminology">Criminology</option>
+              
+            
+              
+                <option value="Crop Studies">Crop Studies</option>
+              
+            
+              
+                <option value="Curriculum &amp; Instruction">Curriculum &amp; Instruction</option>
+              
+            
+              
+                <option value="Dance">Dance</option>
+              
+            
+              
+                <option value="Deaf Studies">Deaf Studies</option>
+              
+            
+              
+                <option value="Design">Design</option>
+              
+            
+              
+                <option value="Dramatic Arts">Dramatic Arts</option>
+              
+            
+              
+                <option value="Early Childhood Education">Early Childhood Education</option>
+              
+            
+              
+                <option value="Earth &amp; Environmental Sciences">Earth &amp; Environmental Sciences</option>
+              
+            
+              
+                <option value="Economics">Economics</option>
+              
+            
+              
+                <option value="Education">Education</option>
+              
+            
+              
+                <option value="Educational Research">Educational Research</option>
+              
+            
+              
+                <option value="Engineering">Engineering</option>
+              
+            
+              
+                <option value="English">English</option>
+              
+            
+              
+                <option value="English As A Second Language">English As A Second Language</option>
+              
+            
+              
+                <option value="Entomology">Entomology</option>
+              
+            
+              
+                <option value="Environmental Science">Environmental Science</option>
+              
+            
+              
+                <option value="Equine Studies">Equine Studies</option>
+              
+            
+              
+                <option value="Fashion">Fashion</option>
+              
+            
+              
+                <option value="Finance">Finance</option>
+              
+            
+              
+                <option value="Food Science">Food Science</option>
+              
+            
+              
+                <option value="French">French</option>
+              
+            
+              
+                <option value="Gender Studies">Gender Studies</option>
+              
+            
+              
+                <option value="Geography">Geography</option>
+              
+            
+              
+                <option value="Geology">Geology</option>
+              
+            
+              
+                <option value="Geomatics Technology">Geomatics Technology</option>
+              
+            
+              
+                <option value="German">German</option>
+              
+            
+              
+                <option value="Gerontology">Gerontology</option>
+              
+            
+              
+                <option value="Graphic Arts">Graphic Arts</option>
+              
+            
+              
+                <option value="Graphic Design">Graphic Design</option>
+              
+            
+              
+                <option value="Greek">Greek</option>
+              
+            
+              
+                <option value="Health Science">Health Science</option>
+              
+            
+              
+                <option value="History">History</option>
+              
+            
+              
+                <option value="Hmong">Hmong</option>
+              
+            
+              
+                <option value="Honors">Honors</option>
+              
+            
+              
+                <option value="Hospitality">Hospitality</option>
+              
+            
+              
+                <option value="Humanities">Humanities</option>
+              
+            
+              
+                <option value="Industrial Technology">Industrial Technology</option>
+              
+            
+              
+                <option value="Information Science">Information Science</option>
+              
+            
+              
+                <option value="Information Systems">Information Systems</option>
+              
+            
+              
+                <option value="Information Technology">Information Technology</option>
+              
+            
+              
+                <option value="Interdisciplinary Studies">Interdisciplinary Studies</option>
+              
+            
+              
+                <option value="Interior Design">Interior Design</option>
+              
+            
+              
+                <option value="International Business">International Business</option>
+              
+            
+              
+                <option value="Italian">Italian</option>
+              
+            
+              
+                <option value="Japanese">Japanese</option>
+              
+            
+              
+                <option value="Journalism">Journalism</option>
+              
+            
+              
+                <option value="Kinesiology">Kinesiology</option>
+              
+            
+              
+                <option value="Leisure Studies">Leisure Studies</option>
+              
+            
+              
+                <option value="Liberal Studies">Liberal Studies</option>
+              
+            
+              
+                <option value="Linguistics">Linguistics</option>
+              
+            
+              
+                <option value="Literature">Literature</option>
+              
+            
+              
+                <option value="Management">Management</option>
+              
+            
+              
+                <option value="Marketing">Marketing</option>
+              
+            
+              
+                <option value="Mass Comm. &amp; Journalism">Mass Comm. &amp; Journalism</option>
+              
+            
+              
+                <option value="Mathematics">Mathematics</option>
+              
+            
+              
+                <option value="Media Arts">Media Arts</option>
+              
+            
+              
+                <option value="Music">Music</option>
+              
+            
+              
+                <option value="Natural Sciences">Natural Sciences</option>
+              
+            
+              
+                <option value="Nursing">Nursing</option>
+              
+            
+              
+                <option value="Nutrition">Nutrition</option>
+              
+            
+              
+                <option value="Oenology &amp; Viticulture">Oenology &amp; Viticulture</option>
+              
+            
+              
+                <option value="Peace &amp; Conflict Studies">Peace &amp; Conflict Studies</option>
+              
+            
+              
+                <option value="Philosophy">Philosophy</option>
+              
+            
+              
+                <option value="Photography">Photography</option>
+              
+            
+              
+                <option value="Physical Education">Physical Education</option>
+              
+            
+              
+                <option value="Physical Sciences">Physical Sciences</option>
+              
+            
+              
+                <option value="Physical Therapy">Physical Therapy</option>
+              
+            
+              
+                <option value="Physics">Physics</option>
+              
+            
+              
+                <option value="Physiology">Physiology</option>
+              
+            
+              
+                <option value="Plant &amp; Soil Science">Plant &amp; Soil Science</option>
+              
+            
+              
+                <option value="Political Science">Political Science</option>
+              
+            
+              
+                <option value="Psychology">Psychology</option>
+              
+            
+              
+                <option value="Puerto Rican &amp; Latino Studie">Puerto Rican &amp; Latino Studie</option>
+              
+            
+              
+                <option value="Recreation &amp; Leisure Studies">Recreation &amp; Leisure Studies</option>
+              
+            
+              
+                <option value="Rehabilitation Counseling">Rehabilitation Counseling</option>
+              
+            
+              
+                <option value="Religion">Religion</option>
+              
+            
+              
+                <option value="Social Science">Social Science</option>
+              
+            
+              
+                <option value="Social Work">Social Work</option>
+              
+            
+              
+                <option value="Sociology">Sociology</option>
+              
+            
+              
+                <option value="Spanish">Spanish</option>
+              
+            
+              
+                <option value="TA">TA</option>
+              
+            
+              
+                <option value="University Studies">University Studies</option>
+              
+            
+              
+                <option value="Viticulture &amp; Enology">Viticulture &amp; Enology</option>
+              
+            
+              
+                <option value="Women's Studies">Women's Studies</option>
+              
+            
+              
+                <option value="Zoology">Zoology</option>
+              
+            
+          </select>
+        </div>
+        <!--googleoff: index-->
+<div class="panel-filter">
+  <div class="sort-options">
+    <span class="professor-count">21</span> professors found
+    <span class="sod_select " tabindex="0" data-cycle="false" data-links="false" data-links-external="false" data-placeholder-option="false" data-filter=""><span class="sod_label">Most Rated</span><span class="sod_list_wrapper"><span class="sod_list" style="max-height: 132px;"><span class="sod_option  selected active " title="Most Rated" data-value="total_number_of_ratings_i desc">Most Rated</span><span class="sod_option " title="Highest Rated" data-value="averageratingscore_rf desc,total_number_of_ratings_i desc">Highest Rated</span><span class="sod_option " title="Least Difficult" data-value="averageeasyscore_rf asc">Least Difficult</span><span class="sod_option " title="Alphabetical" data-value="teacherlastname_sort_s asc">Alphabetical</span></span></span><select id="sort-results" onchange="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:Sort', linkType:'o' } );">
+      <!--
+        use cookies to determine which sort is selected
+        we also unfortunately have to replace html encoded spaces
+        since cookies are url encoded
+      -->
+      <option value="total_number_of_ratings_i desc">Most Rated</option>
+      <option value="averageratingscore_rf desc,total_number_of_ratings_i desc">Highest Rated</option>
+      <option value="averageeasyscore_rf asc">Least Difficult</option>
+      <option value="teacherlastname_sort_s asc">Alphabetical</option>
+    </select></span>
+  </div>
+  <div class="professor-name-filter">
+    <input id="professor-name" placeholder="Enter Your Professor's Name" value="" onfocus="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:SearchbynameSort', linkType:'o' } );" type="text" />
+  </div>
+  <div class="filter-options">
+    
+      <a class="result" data-value="a" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">a</a>
+    
+      <a class="result" data-value="b" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">b</a>
+    
+      <a class="result" data-value="c" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">c</a>
+    
+      <a class="result" data-value="d" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">d</a>
+    
+      <a class="result" data-value="e" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">e</a>
+    
+      <a class="result" data-value="f" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">f</a>
+    
+      <a class="result" data-value="g" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">g</a>
+    
+      <a class="result" data-value="h" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">h</a>
+    
+      <a class="result" data-value="i" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">i</a>
+    
+      <a class="result" data-value="j" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">j</a>
+    
+      <a class="result" data-value="k" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">k</a>
+    
+      <a class="result" data-value="l" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">l</a>
+    
+      <a class="result" data-value="m" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">m</a>
+    
+      <a class="result" data-value="n" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">n</a>
+    
+      <a class="result" data-value="o" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">o</a>
+    
+      <a class="result" data-value="p" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">p</a>
+    
+      <a class="result" data-value="q" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">q</a>
+    
+      <a class="result" data-value="r" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">r</a>
+    
+      <a class="result" data-value="s" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">s</a>
+    
+      <a class="result" data-value="t" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">t</a>
+    
+      <a class="result" data-value="u" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">u</a>
+    
+      <a class="result" data-value="v" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">v</a>
+    
+      <a class="result" data-value="w" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">w</a>
+    
+      <a class="result" data-value="x" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">x</a>
+    
+      <a class="result" data-value="y" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">y</a>
+    
+      <a class="result" data-value="z" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AlphaFilter', linkType:'o' } );">z</a>
+    
+    <a class="result" data-value="All">All</a>
+  </div>
+</div>
+<div class="result-list">
+  <ul>
+  <li>
+    <a href="/ShowRatings.jsp?tid=31895">
+      <span class="average-icon"></span>
+      <span class="rating">3.2</span>
+      <span class="name">Lowe, Prudence
+        <span class="info">97 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=13342">
+      <span class="poor-icon"></span>
+      <span class="rating">2.3</span>
+      <span class="name">Yeung, Henderson
+        <span class="info">56 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=13341">
+      <span class="average-icon"></span>
+      <span class="rating">2.9</span>
+      <span class="name">Seki, Shigeko
+        <span class="info">46 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=13343">
+      <span class="average-icon"></span>
+      <span class="rating">3.0</span>
+      <span class="name">Wilson, Todd
+        <span class="info">44 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=13344">
+      <span class="poor-icon"></span>
+      <span class="rating">1.6</span>
+      <span class="name">Wei, Grace
+        <span class="info">31 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=15066">
+      <span class="poor-icon"></span>
+      <span class="rating">1.8</span>
+      <span class="name">Jin, Lan
+        <span class="info">29 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=16867">
+      <span class="good-icon"></span>
+      <span class="rating">3.6</span>
+      <span class="name">Read, Walter
+        <span class="info">28 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=31270">
+      <span class="average-icon"></span>
+      <span class="rating">3.1</span>
+      <span class="name">Smith, Jerome
+        <span class="info">26 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=997391">
+      <span class="average-icon"></span>
+      <span class="rating">2.5</span>
+      <span class="name">Li, Ming
+        <span class="info">22 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=31901">
+      <span class="good-icon"></span>
+      <span class="rating">4.0</span>
+      <span class="name">Auernheimer, Brent
+        <span class="info">10 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=2046938">
+      <span class="good-icon"></span>
+      <span class="rating">3.6</span>
+      <span class="name">Ruby, David
+        <span class="info">10 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=1385005">
+      <span class="good-icon"></span>
+      <span class="rating">4.6</span>
+      <span class="name">Liu, Shih-Hsi
+        <span class="info">9 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=2078257">
+      <span class="average-icon"></span>
+      <span class="rating">2.8</span>
+      <span class="name">Park, Jin
+        <span class="info">9 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=1581638">
+      <span class="good-icon"></span>
+      <span class="rating">4.3</span>
+      <span class="name">Yan, Jennifer
+        <span class="info">6 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=898386">
+      <span class="poor-icon"></span>
+      <span class="rating">1.4</span>
+      <span class="name">Hatfield, Bo
+        <span class="info">5 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=2051783">
+      <span class="good-icon"></span>
+      <span class="rating">4.1</span>
+      <span class="name">Clifton, Andy
+        <span class="info">5 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=45904">
+      <span class="good-icon"></span>
+      <span class="rating">3.6</span>
+      <span class="name">Wright, David
+        <span class="info">4 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=1372208">
+      <span class="good-icon"></span>
+      <span class="rating">4.5</span>
+      <span class="name">Bohlin, Roy
+        <span class="info">4 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=106538">
+      <span class="good-icon"></span>
+      <span class="rating">4.0</span>
+      <span class="name">Villegas, Rafael
+        <span class="info">3 RATINGS</span>
+      </span>
+    </a>
+  </li>
+
+  <li>
+    <a href="/ShowRatings.jsp?tid=1351480">
+      <span class="good-icon"></span>
+      <span class="rating">3.5</span>
+      <span class="name">Cao, YU
+        <span class="info">2 RATINGS</span>
+      </span>
+    </a>
+  </li>
+</ul>
+  <div class="progressbtnwrap" data-search-type="search" style="display: block;">
+    <div class="content" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:LoadMore', linkType:'o' } );">Load More</div>
+    <div class="progress-bar"></div>
+  </div>
+</div>
+<div class="add-professor">
+  don't see your professor? <a href="/teacher/create" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROFMIDPANE:AddProf', linkType:'o' } );">add them.</a>
+</div>
+
+<script type="text/template" id="professor-result-template">
+  &lt;li&gt;
+    &lt;a href="/ShowRatings.jsp?tid={{id}}"&gt;
+      &lt;span class="{{ratingclass}}-icon"&gt;&lt;/span&gt;
+      &lt;span class="rating"&gt;{{overall_rating}}&lt;/span&gt;
+      &lt;span class="name"&gt;{{plname}}, {{{pfname}}}
+        &lt;span class="info"&gt;{{rating_count}} RATINGS&lt;/span&gt;
+      &lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+</script>
+<!--googleon: index-->
+      </div>
+    </div>
+    <!-- Starts the blocks -->
+    <div class="right-panel school-result">
+      <!-- School info -->
+      <div class="top-info-block">
+        <div class="result-info">
+          <div class="result-name">
+            California State University Fresno
+            
+              <a href="" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:TopList', linkType:'o' } );">
+                <div class="badge -badge" title=""></div>
+              </a>
+          	
+          </div>
+          <div class="result-title">
+            <span>
+              Fresno, CA
+            </span>
+			       <a href="http://www.csufresno.edu/" class="website-icon" target="_blank">Website</a>
+          </div>
+         </div>
+        <div class="actions">
+          <div id="ad-container" class="right-panel-mtvnad"><div id="coda_ad_300x250_6" data-ad-sizes="300x250" data-ad-keyvalues="gridAd=grid" data-google-query-id="CMaerLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_5__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_5" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_5" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="250" frameborder="0" width="300"></iframe></div></div></div>
+		      
+				    <a href="/campusrating/create?sid=161" class="rate" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Rate_top', linkType:'o' } );">Rate this campus</a>
+        	
+          
+            <div class="share">
+              Share
+              <div class="share-intent">
+                <a class="desktop intent-facebook icon-facebook" target="_blank" href="http://www.facebook.com/sharer.php?s=100&amp;p[url]=www.ratemyprofessors.com/campusRatings.jsp?sid=161" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600px,height=300px');  javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Facebook', linkType:'o' } ); return false;">
+                </a>
+                <a class="mobile-block intent-facebook icon-facebook" target="_blank" href="http://m.facebook.com/sharer.php?s=100&amp;u=www.ratemyprofessors.com/campusRatings.jsp?sid=161" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Facebook', linkType:'o' } );">
+                </a>
+                <a href="https://twitter.com/intent/tweet?text=You%E2%80%99ve+gotta+check+out+California+State+University+Fresno+on+%40RateMyProfessor+-+www.ratemyprofessors.com%2FcampusRatings.jsp%3Fsid%3D161" target="_blank" class="intent-twitter icon-twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600px,height=300px');  javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Twitter', linkType:'o' } ); return false;">
+                </a>
+              </div>
+            </div>
+          
+  		    <div class="links">
+            <a href="/schoolCorrection.jsp?sid=161" class="correction">Submit a Correction</a>
+          </div>
+        </div>
+      </div>
+      <!-- Ends School Info -->
+      <!-- Starts Rating Breakdowns -->
+      <div class="rating-breakdown">
+        <div class="left-breakdown top-professors">
+          <div class="header-wrapper">
+            <div class="header">
+              Top Professors
+              <a href="/search.jsp?queryBy=schoolId&amp;schoolName=California+State+University+Fresno&amp;schoolID=161&amp;queryoption=TEACHER" data-school="California State University Fresno" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:ViewAllProfs', linkType:'o' } );" class="button-link">
+              view all <span class="hidden-sm">professors</span></a>
+            </div>
+          </div>
+          <div class="professor-breakdown">
+            <div class="top-professor-ratings">
+              <ul class="professor-list">
+                <!-- Begins: one professor in top professors -->
+                
+                  <a href="/ShowRatings.jsp?tid=688855">
+                    <li>
+                      <span class="rating-icon"></span>
+                      <div class="professor-name-rating">
+                        <div class="professor-name">Mikow, Marilyn</div>
+                        <div class="professor-rating-count">
+                          28
+                          
+                            reviews
+                          
+                        </div>
+                      </div>
+                      <span class="professor-rating">5.0</span>
+                      <div class="clearfix"></div>
+                    </li>
+                  </a>
+                 <!-- Ends: one professor in top professors -->
+                
+                  <a href="/ShowRatings.jsp?tid=506189">
+                    <li>
+                      <span class="rating-icon"></span>
+                      <div class="professor-name-rating">
+                        <div class="professor-name">Coles, Michael</div>
+                        <div class="professor-rating-count">
+                          14
+                          
+                            reviews
+                          
+                        </div>
+                      </div>
+                      <span class="professor-rating">5.0</span>
+                      <div class="clearfix"></div>
+                    </li>
+                  </a>
+                 <!-- Ends: one professor in top professors -->
+                
+                  <a href="/ShowRatings.jsp?tid=1551288">
+                    <li>
+                      <span class="rating-icon"></span>
+                      <div class="professor-name-rating">
+                        <div class="professor-name">Morel, Joseph</div>
+                        <div class="professor-rating-count">
+                          10
+                          
+                            reviews
+                          
+                        </div>
+                      </div>
+                      <span class="professor-rating">5.0</span>
+                      <div class="clearfix"></div>
+                    </li>
+                  </a>
+                 <!-- Ends: one professor in top professors -->
+                
+              </ul>
+            </div>
+            <div class="overall-rating">
+              <span class="score average-professor-score">3.83</span>
+              <span class="label">Average Professor Rating</span>
+            </div>
+          </div>
+        </div>
+        <div class="right-breakdown school-averages">
+          <div class="header-wrapper">
+            <div class="header">How This School Stacks Up</div>
+          </div>
+          <div class="school-breakdown">
+            <div class="overall-rating">
+              <span class="score medium">3.6</span>
+              <span class="label">Overall Quality Rating</span>
+            </div>
+            <div class="quality-breakdown">
+              <div class="rating">
+                <span class="rating-icon medium"></span>
+                <span class="score">3.6</span>
+                <span class="label">REPUTATION</span>
+              </div>
+              <div class="rating">
+                <span class="rating-icon medium"></span>
+                <span class="score">3.5</span>
+                <span class="label">LOCATION</span>
+              </div>
+              <div class="rating">
+                <span class="rating-icon medium"></span>
+                <span class="score">3.7</span>
+                <span class="label">INTERNET</span>
+              </div>
+              <div class="rating">
+                <span class="rating-icon medium"></span>
+                <span class="score">3.3</span>
+                <span class="label">FOOD</span>
+              </div>
+              <div class="rating">
+                <span class="rating-icon medium"></span>
+                <span class="score">3.5</span>
+                <span class="label">OPPORTUNITY</span>
+              </div>
+              <div class="rating">
+                <span class="rating-icon good"></span>
+                <span class="score">4.1</span>
+                <span class="label">FACILITIES</span>
+              </div>
+              <div class="rating">
+                <span class="rating-icon medium"></span>
+                <span class="score">3.5</span>
+                <span class="label">CLUBS</span>
+              </div>
+              <div class="rating">
+                <span class="rating-icon medium"></span>
+                <span class="score">3.4</span>
+                <span class="label">SOCIAL</span>
+              </div>
+              <div class="rating">
+                <span class="rating-icon medium"></span>
+                <span class="score">3.9</span>
+                <span class="label">HAPPINESS</span>
+              </div>
+              
+			  <div class="rating">
+                <span class="rating-icon medium"></span>
+                <span class="score">3.9</span>
+                <span class="label">SAFETY</span>
+              </div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Ends Rating Breakdown -->
+    	<div id="mobile-ad-container" style="text-align:center;"></div>
+      <!-- Begins: Ratings Listings -->
+      <div class="school-rating-list">
+      <div class="table-toggle rating-count active h1">278 School Ratings</div>
+
+      <form action="/ratemyCampusA.jsp?sid=161" method="post" name="sratingCommentForm" id="sratingCommentForm">
+        <div class="srating-Comments-text">
+          <div class="input">
+            <div class="input">
+              <textarea name="sratingComments" id="sratingComments" class="field autoExpand" rows="1" maxlength="350" placeholder="Start typing your comment..."></textarea>
+              <div id="noteCount" class="character-count"><span>350</span> characters left</div>
+            </div>
+            <input name="fromContinueRating" id="fromContinueRating" class="field" value="1" type="hidden" />
+          </div>
+          <div class="submit-form">
+            <input value="Continue Your Rating" name="sratingSubmit" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:CommentContinue', linkType:'o' } );" id="sratingSubmit" type="submit" />
+          </div>
+        </div>
+      </form>
+
+      <table class="school-ratings" border="0">
+        <tbody><tr>
+          <th>Rating</th>
+          <th>Comment</th>
+        </tr>
+        
+        <!-- Begins: Loop for One Rating -->
+    	  
+          
+          <tr id="263745" class="">
+            <td class="scores">
+              <div class="date">10/18/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Safety</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                The campus just feels like home to me. It has a park kind of vibe to it and there are squirrels everywhere. Definitely recommend learning how to ride a long board or a skateboard, if not bring a scooter. The library is by far my favorite place to be and everyone is so friendly! I know Fresno is not the safest but I feel safe on campus.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="263745" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="263745" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=263745" data-report-text="The campus just feels like home to me. It has a park kind of vibe to it and there are squirrels everywhere. Definitely recommend learning how to ride a long board or a skateboard, if not bring a scooter. The library is by far my favorite place to be and everyone is so friendly! I know Fresno is not the safest but I feel safe on campus." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="263237" class="even">
+            <td class="scores">
+              <div class="date">10/12/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Safety</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Just transferred here and I like it a lot! There are so many clubs and awesome classes. Some of the buildings here are a little outdated but the newer ones are great! I especially love that this campus has a fairly big CDDS program which is something that I'm interested in. Also the Bulldog Express is the most genius thing ever
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="263237" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="263237" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=263237" data-report-text="Just transferred here and I like it a lot! There are so many clubs and awesome classes. Some of the buildings here are a little outdated but the newer ones are great! I especially love that this campus has a fairly big CDDS program which is something that I'm interested in. Also the Bulldog Express is the most genius thing ever" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="262466" class="">
+            <td class="scores">
+              <div class="date">09/30/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">2</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Safety</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                I love CSUF !
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="262466" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="262466" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=262466" data-report-text="I love CSUF !" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+            <tr>
+              <td colspan="4" class="ad-placement" style="padding-left: 30px;">
+                <div id="item-mtvnad-3"><div id="coda_ad_728x90_7" data-ad-sizes="728x90" data-ad-keyvalues="gridAd=grid" data-google-query-id="CMeerLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_6__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_6" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_6" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="90" frameborder="0" width="728"></iframe></div></div></div>
+              </td>
+            </tr>
+          
+    	 
+          
+          <tr id="261112" class="even">
+            <td class="scores">
+              <div class="date">09/07/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                <div class="rating">
+                  <div class="score good">2</div>
+                  <div class="label">Safety</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                I honestly love Fresno State! When I was in high school, I knew for a fact I belonged at Fresno State. I feel like everyone here is really nice, and everyone is proud to be a Bulldog. I love the school spirit which makes me proud every day to be able to attend CSU Fresno.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="261112" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="261112" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=261112" data-report-text="I honestly love Fresno State! When I was in high school, I knew for a fact I belonged at Fresno State. I feel like everyone here is really nice, and everyone is proud to be a Bulldog. I love the school spirit which makes me proud every day to be able to attend CSU Fresno." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="260738" class="">
+            <td class="scores">
+              <div class="date">09/01/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">2</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Safety</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                CSU Fresno is a great school with many opportunities. People are very friendly and are willing to help you, if you're ever having trouble with anything. A lot of beautiful people all around, from different backgrounds. Very diverse. Also, if you're 21, and over, the bar or the club is the best spot
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="260738" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 2</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="260738" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=260738" data-report-text="CSU Fresno is a great school with many opportunities. People are very friendly and are willing to help you, if you're ever having trouble with anything. A lot of beautiful people all around, from different backgrounds. Very diverse. Also, if you're 21, and over, the bar or the club is the best spot" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="259671" class="even">
+            <td class="scores">
+              <div class="date">08/19/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Safety</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Campus is nice. Some buildings are a bit run down, some are really nice (lab school reaks of rotting everything, while science 2 is modern and smells like leather). The people are very nice, but too many students just want to party. Club involvement is low, sadly (I just started a club, and I am involved in two other clubs). Professors rock here.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="259671" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="259671" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">1</span>
+    								<span class="grouping">person</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=259671" data-report-text="Campus is nice. Some buildings are a bit run down, some are really nice (lab school reaks of rotting everything, while science 2 is modern and smells like leather). The people are very nice, but too many students just want to party. Club involvement is low, sadly (I just started a club, and I am involved in two other clubs). Professors rock here." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="259397" class="">
+            <td class="scores">
+              <div class="date">08/15/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Safety</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Great school and can be fun and easy if you reach out to people.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="259397" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="259397" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=259397" data-report-text="Great school and can be fun and easy if you reach out to people." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="259365" class="even">
+            <td class="scores">
+              <div class="date">08/15/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Safety</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                I have always had a level of fondness and respect for this university. I am proud to be a Fresno State student and look forward to the day I graduate from here!
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="259365" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="259365" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=259365" data-report-text="I have always had a level of fondness and respect for this university. I am proud to be a Fresno State student and look forward to the day I graduate from here!" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+            <tr>
+              <td colspan="4" class="ad-placement" style="padding-left: 30px;">
+                <div id="item-mtvnad-8"><div id="coda_ad_728x90_8" data-ad-sizes="728x90" data-ad-keyvalues="gridAd=grid" data-google-query-id="CMierLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_7__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_7" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_7" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="90" frameborder="0" width="728"></iframe></div></div></div>
+              </td>
+            </tr>
+          
+    	 
+          
+          <tr id="258395" class="">
+            <td class="scores">
+              <div class="date">07/31/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Awesome school. Been here since after high school and wouldn't wish to be anywhere else. LOVE the support you have from just about anyone. Had everything I expected and more. Go Bulldogs!
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="258395" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="258395" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=258395" data-report-text="Awesome school. Been here since after high school and wouldn't wish to be anywhere else. LOVE the support you have from just about anyone. Had everything I expected and more. Go Bulldogs!" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="257790" class="even">
+            <td class="scores">
+              <div class="date">07/21/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Fresno State is an excellent school. Very welcoming, friendly, and the faculty and staff are very support.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="257790" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="257790" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=257790" data-report-text="Fresno State is an excellent school. Very welcoming, friendly, and the faculty and staff are very support." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="256038" class="">
+            <td class="scores">
+              <div class="date">06/23/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Best experience of my life!
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="256038" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 1</span>
+    								<span class="grouping">person</span>
+    								found this useful
+    							</a>
+    							<a data-id="256038" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=256038" data-report-text="Best experience of my life!" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="255238" class="even">
+            <td class="scores">
+              <div class="date">06/10/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Proud to be a Fresno State Bulldog
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="255238" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 1</span>
+    								<span class="grouping">person</span>
+    								found this useful
+    							</a>
+    							<a data-id="255238" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">2</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=255238" data-report-text="Proud to be a Fresno State Bulldog" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="255228" class="">
+            <td class="scores">
+              <div class="date">06/10/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score poor">1</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">2</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Depends on your major that you are studying. Research the school before you apply. Some majors offer a few courses while the rest are electives unrelated to your major.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="255228" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 1</span>
+    								<span class="grouping">person</span>
+    								found this useful
+    							</a>
+    							<a data-id="255228" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">1</span>
+    								<span class="grouping">person</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=255228" data-report-text="Depends on your major that you are studying. Research the school before you apply. Some majors offer a few courses while the rest are electives unrelated to your major." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+            <tr>
+              <td colspan="4" class="ad-placement" style="padding-left: 30px;">
+                <div id="item-mtvnad-13"><div id="coda_ad_728x90_9" data-ad-sizes="728x90" data-ad-keyvalues="gridAd=grid" data-google-query-id="CMmerLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_8__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_8" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_8" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="90" frameborder="0" width="728"></iframe></div></div></div>
+              </td>
+            </tr>
+          
+    	 
+          
+          <tr id="253990" class="even">
+            <td class="scores">
+              <div class="date">05/26/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Good university overall.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="253990" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="253990" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=253990" data-report-text="Good university overall." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="253979" class="">
+            <td class="scores">
+              <div class="date">05/26/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">2</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">2</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                If you're thinking of coming here because of the Linguistics-TESOL program, you should really go somewhere else.  The TESOL program here is a 'why bother?!' situation. There's very little focus on 'Teaching," and  most ofwhat you will study has little application toward teaching English.  It's pretty pathetic.  Don't waste your time.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="253979" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="253979" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">3</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=253979" data-report-text="If you're thinking of coming here because of the Linguistics-TESOL program, you should really go somewhere else.  The TESOL program here is a 'why bother?!' situation. There's very little focus on 'Teaching,&quot; and  most ofwhat you will study has little application toward teaching English.  It's pretty pathetic.  Don't waste your time." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="253418" class="even">
+            <td class="scores">
+              <div class="date">05/19/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score fair">2</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Fresno State is so underrated. Most people who talk down on Fresno State are the ones that are doing bad in school, aren't involved, or aren't informed about all the great things the school has to provide. I am very thankful to attend Fresno State and proud to be part of such a giving community.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="253418" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 6</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="253418" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">2</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=253418" data-report-text="Fresno State is so underrated. Most people who talk down on Fresno State are the ones that are doing bad in school, aren't involved, or aren't informed about all the great things the school has to provide. I am very thankful to attend Fresno State and proud to be part of such a giving community." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="253371" class="">
+            <td class="scores">
+              <div class="date">05/19/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score fair">2</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">2</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Fresno State is definitely not as bad as the reputation it has gotten over the years. It's very cozy and has a friendly environment. Yes, the school is a little old structurally but they're working on that every year. Theres always some sort of construction going on to better the campus.
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="253371" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 1</span>
+    								<span class="grouping">person</span>
+    								found this useful
+    							</a>
+    							<a data-id="253371" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=253371" data-report-text="Fresno State is definitely not as bad as the reputation it has gotten over the years. It's very cozy and has a friendly environment. Yes, the school is a little old structurally but they're working on that every year. Theres always some sort of construction going on to better the campus." class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="253262" class="even">
+            <td class="scores">
+              <div class="date">05/18/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Awesome school, great teachers, cool people. People talk down on Fresno because it's a bad place or whatever but I love Fresno State, it's a great place to be. I'm not even from Fresno but I don't see myself going to school anywhere else. Go Bulldogs!
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="253262" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 1</span>
+    								<span class="grouping">person</span>
+    								found this useful
+    							</a>
+    							<a data-id="253262" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=253262" data-report-text="Awesome school, great teachers, cool people. People talk down on Fresno because it's a bad place or whatever but I love Fresno State, it's a great place to be. I'm not even from Fresno but I don't see myself going to school anywhere else. Go Bulldogs!" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+            <tr>
+              <td colspan="4" class="ad-placement" style="padding-left: 30px;">
+                <div id="item-mtvnad-18"><div id="coda_ad_728x90_10" data-ad-sizes="728x90" data-ad-keyvalues="gridAd=grid" data-google-query-id="CMqerLv59s8CFVeAfgodMqEG6g"><div id="google_ads_iframe_8675/rmp_web/school_9__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_8675/rmp_web/school_9" title="3rd party ad content" name="google_ads_iframe_8675/rmp_web/school_9" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" height="90" frameborder="0" width="728"></iframe></div></div></div>
+              </td>
+            </tr>
+          
+    	 
+          
+          <tr id="252124" class="">
+            <td class="scores">
+              <div class="date">05/12/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">5</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">2</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Great library, a lot of food choices, fun greek life
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="252124" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="252124" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=252124" data-report-text="Great library, a lot of food choices, fun greek life" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+          
+          <tr id="251067" class="even">
+            <td class="scores">
+              <div class="date">05/06/2016</div>
+              <div class="js-open">
+                <div class="hidden-lg">Rating categories</div>
+              </div>
+              <div class="rate-list">
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Reputation</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Location</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Internet</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Food</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Facilities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Social</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Happiness</div>
+                </div>
+                <div class="rating">
+                  <div class="score good">4</div>
+                  <div class="label">Opportunities</div>
+                </div>
+                <div class="rating">
+                  <div class="score fair">3</div>
+                  <div class="label">Clubs</div>
+                </div>
+                
+                
+              </div>
+            </td>
+
+            
+            <td class="comments">
+              <p>
+                Besides the annoying amount of car jerseys that spontaneously pop up every football season, the scenery is actually pretty decent here. I really enjoy the what this school has to offer, from its huge library to the student union. When you're not studying there is plenty to do, and a fair amount of restaurants to eat at. GO DOGS!!!
+              </p>
+              
+                <div class="helpful-links thumbs">
+    							<a data-id="251067" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Useful', linkType:'o' } );">
+    								<span class="count"> 0</span>
+    								<span class="grouping">people</span>
+    								found this useful
+    							</a>
+    							<a data-id="251067" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:NotUseful', linkType:'o' } );">
+    								<span class="count">0</span>
+    								<span class="grouping">people</span>
+    								did not find this useful
+    							</a>
+    		        </div>
+    		      
+              <div class="helpful-links">
+                
+    				      <a href="/flagCampusRating.jsp?id=251067" data-report-text="Besides the annoying amount of car jerseys that spontaneously pop up every football season, the scenery is actually pretty decent here. I really enjoy the what this school has to offer, from its huge library to the student union. When you're not studying there is plenty to do, and a fair amount of restaurants to eat at. GO DOGS!!!" class="report">report this rating</a>
+                
+              </div>
+            </td>
+            
+          </tr>
+          <!-- Ends: Loop for One Rating -->
+          
+    	 
+      </tbody></table>
+    		
+          <a id="loadMore" data-school-id="161" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:LoadMore', linkType:'o' } );">
+          Load More
+          </a>
+    		
+    		<div class="helpfulReviewBanner">
+          
+            <div class="text">Were these reviews useful? Help out your fellow students.</div>
+            <a href="/campusrating/create?sid=161" class="rate" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'SCHOOL:Rate_bottom', linkType:'o' } );">Rate this campus</a>
+          
+        </div>
+      </div>
+    </div>
+    <!-- Ends the blocks -->
+    <script type="text/template" id="schoolRating">
+      &lt;!-- Begins: One Rating --&gt;
+      &lt;tr id="{{id}}" class = "{{class}}"&gt;
+        &lt;td class="scores"&gt;
+          &lt;div class="date"&gt;{{crCreateDate}}&lt;/div&gt;
+          &lt;div class="js-open"&gt;
+            &lt;div class="hidden-lg"&gt;Rating categories&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class="rate-list"&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{reputationColor}}"&gt;{{crSchoolReputation}}&lt;/div&gt;
+              &lt;div class="label"&gt;Reputation&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{locationColor}}"&gt;{{crCampusLocation}}&lt;/div&gt;
+              &lt;div class="label"&gt;Location&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{internetColor}}"&gt;{{crInternetSpeed}}&lt;/div&gt;
+              &lt;div class="label"&gt;Internet&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{foodColor}}"&gt;{{crFoodQuality}}&lt;/div&gt;
+              &lt;div class="label"&gt;Food&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{libraryColor}}"&gt;{{crLibraryCondition}}&lt;/div&gt;
+              &lt;div class="label"&gt;Library&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{campusColor}}"&gt;{{crCampusCondition}}&lt;/div&gt;
+              &lt;div class="label"&gt;Campus&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{socialColor}}"&gt;{{crSocialActivities}}&lt;/div&gt;
+              &lt;div class="label"&gt;Social&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{satisfyColor}}"&gt;{{crSchoolSatisfaction}}&lt;/div&gt;
+              &lt;div class="label"&gt;Happiness&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{careerColor}}"&gt;{{crCareerOpportunities}}&lt;/div&gt;
+              &lt;div class="label"&gt;Opportunities&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{clubColor}}"&gt;{{crClubAndEventActivities}}&lt;/div&gt;
+              &lt;div class="label"&gt;Clubs&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td class="comments"&gt;
+          &lt;p&gt;
+            {{crComments}}
+          &lt;/p&gt;
+          &lt;div class="helpful-links thumbs"&gt;
+            
+              &lt;a data-id="{{id}}" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful"&gt;
+            	 	&lt;span class="count"&gt;{{helpCount}}  &lt;/span&gt;
+            		&lt;span class="grouping"&gt;{{usefulGrouping}}&lt;/span&gt;
+                found this useful
+              &lt;/a&gt;
+              &lt;a data-id="{{id}}" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful"&gt;
+               	&lt;span class="count"&gt;{{notHelpCount}} &lt;/span&gt;
+                &lt;span class="grouping"&gt;{{unUsefulGrouping}}&lt;/span&gt;
+                did not find this useful
+              &lt;/a&gt;
+            
+          &lt;/div&gt;
+          &lt;div class="helpful-links"&gt;
+            &lt;a href="/flagCampusRating.jsp?id={{id}}" data-report-text="{{crComments}}" class="report"&gt;report this rating&lt;/a&gt;
+            
+          &lt;/div&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;!-- Ends: One Rating --&gt;
+    </script>
+  
+        </div>
+      </div>
+      <!-- Ends Body Content -->
+
+      <!-- Starts Mobile Footer -->
+      
+        
+
+<footer class="mobileFooter hidden-lg">
+	<ul>
+		<li><a href="/About.jsp">about</a>
+		</li>
+		<li><a href="/mobile/blog" id="blogMobileFooterLink">blog</a></li>
+		<li><a href="http://shop.mtv.com/category/79629920321/1/Rate-My-Professors.htm?utm_source=rmpcom&amp;utm_medium=topnav&amp;utm_campaign=rmpprods" target="_blank">Store</a></li>
+		<li><a href="/help.jsp">Help</a>
+		</li>
+		<li><a href="/utility/contact">Contact
+				Us</a></li>
+		<li><a href="http://srp.viacom.com/sitefaq.html" target="_blank">Ad
+				Choices</a></li>
+		<li><a href="/TermsOfUse_us.jsp#use" id="mobile_termUsePage">Terms &amp; Conditions <span class="m_last_modified">Last Modified (2/9/2016)</span></a></li>
+		<li><a href="/TermsOfUse_us.jsp#privacy" id="mobile_privacyPage">Privacy Policy/Your CA Privacy Rights <span class="m_last_modified">Last Modified (2/9/2016)</span></a></li>
+		<li><a href="/TermsOfUse_us.jsp#copyright" id="mobile_copyRightPage">Copyright Compliance Policy</a></li>
+		<li class="terms-conditions">©2016 RateMyProfessors.com
+			LLC. All Rights Reserved. Powered by <a href="http://mtvu.com" target="_blank">mtvU</a>. mtvU is a trademark of Viacom International
+			Inc.
+		</li>
+	</ul>
+</footer>
+
+      
+      <!-- Ends Footer -->
+    </div>
+    <!-- Ends the page wrap -->
+
+    <!-- Starts Desktop Footer -->
+    
+      
+
+
+<footer class="mainFooter hidden-md">
+	<ul id="leftFooter">
+		<li><a href="/About.jsp">about</a>
+			/</li>
+		<li><a href="/blog/buzzpost/four-reasons-to-download-the-ratemyprofessors-app/?all=1" id="blogFooterLink">blog</a> /</li>
+		<li><a href="http://shop.mtv.com/category/79629920321/1/Rate-My-Professors.htm?utm_source=rmpcom&amp;utm_medium=topnav&amp;utm_campaign=rmpprods" target="_blank">Store</a> /</li>
+		<li><a href="/help.jsp">Help</a>
+			/</li>
+		<li><a href="/utility/contact">Contact
+				Us</a> /</li>
+		<li><a href="http://srp.viacom.com/sitefaq.html" target="_blank">Ad
+				Choices</a> /</li>
+		<li><a href="/TermsOfUse_us.jsp#use" id="termUsePage">Terms &amp; Conditions <span class="last_modified">Last Modified (9/30/2016)</span></a> /</li>
+		<li><a href="/TermsOfUse_us.jsp#privacy" id="privacyPage">Privacy Policy/Your ca privacy rights <span class="last_modified">Last Modified (9/30/2016)</span></a> /</li>
+		<li><a href="/TermsOfUse_us.jsp#copyright" id="copyRightPage">Copyright Compliance Policy</a></li>
+
+	</ul>
+	<section class="copyright">
+		©2016
+		RateMyProfessors.com LLC. All Rights Reserved. Powered by <a href="http://mtvu.com" target="_blank">mtvU</a>. mtvU is a trademark
+		of Viacom International Inc.
+	</section>
+</footer>
+
+    
+    <!-- Ends Footer -->
+
+    <div class="promotion promotionDesktop">
+  <a class="open" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROMOS:Maximize', linkType:'o' } );" href="http://bit.ly/2cLttcs%20%20">◀</a>
+  <a class="close" onclick="javascript:mtvn.btg.Controller.sendLinkEvent({ linkName:'PROMOS:Minimize', linkType:'o' } );" href="http://bit.ly/2cLttcs%20%20">×</a>
+  <div class="content">
+    <a class="img" onclick="promoClickEvent();" href="http://bit.ly/2cLttcs%20%20"><img class="promo-image" src="http://bit.ly/2cU4loo" /></a>
+    <div class="text-content">
+      <h3 class="title"><a class="title" onclick="promoClickEvent();" href="http://bit.ly/2cLttcs%20%20"><span class="title-content">The 2015-2016 Top Lists are here! </span></a></h3>
+      <span class="description">RMP ranks the top professors and schools in the country, based on YOUR ratings!    </span>
+    </div>
+    <div class="clearfix"></div>
+    <span id="promoid" style="display:none">86</span>
+    <a class="more-info" onclick="promoClickEvent();" href="http://bit.ly/2cLttcs%20%20">Did your school make the list?   </a>
+  </div>
+</div>
+    
+    <div class="mobileAppPromo">
+  <a href="#" class="close"></a>
+  <a href="https://appsto.re/us/9UHLu.i" class="app-link" target="_blank"></a>
+  <img src="/assets/mobileAppPromo.png" />
+</div>
+
+    <!-- Starts the student Drop down -->
+<!-- Ends the student drop down -->
+
+<!-- Starts the Professor Drop down -->
+<!-- Ends the Professor Drop down -->
+
+
+<!-- Starts the login menu -->
+<!-- Starts the login Menu -->
+<script type="text/template" id="loginTemplate">
+
+  &lt;div id="loginMenu" class="lform"&gt;
+    &lt;div class="header"&gt;
+      Login to Rate My Professors
+    &lt;/div&gt;
+    &lt;div class="why-signup"&gt;
+      &lt;span&gt;Go ahead, log in, you're still anonymous.&lt;/span&gt; You're always anonymous here, but logging in will save your school and recent searches, helping you find professors faster. You can thank us later.
+    &lt;/div&gt;
+    &lt;form id="loginForm" action="/userauth" method="post"&gt;
+      &lt;div class="form-element"&gt;
+        &lt;div class="error email password"&gt;Incorrect email or password&lt;/div&gt;
+        &lt;div class="label"&gt;email&lt;/div&gt;
+        &lt;input type="text" name="pemail" class="pemail"/&gt;
+      &lt;/div&gt;
+
+      &lt;div class="form-element"&gt;
+        &lt;div class="label"&gt;password&lt;/div&gt;
+        &lt;input type="text" name="ppassword" class="ppassword" /&gt;
+      &lt;/div&gt;
+
+      &lt;div class="form-element"&gt;
+        &lt;input type="checkbox" name="remember" value="0"/&gt;
+        &lt;label class="rememberme"&gt;Remember Me&lt;/label&gt;
+        &lt;a href="#" class="forgotpw" id="forgotPassword"&gt;Forgot my password &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class="form-element"&gt;
+        &lt;input type="submit" id="userLogin" value="Login"/&gt;
+        &lt;div class="or-block"&gt;
+          &lt;hr/&gt;
+          &lt;div class="ortext"&gt;or&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;a href="#" id="signupLink"&gt;Sign up for an account&lt;/a&gt;
+
+      &lt;/div&gt;
+
+    &lt;/form&gt;
+
+  &lt;/div&gt;
+
+</script>
+
+<!-- Ends: login menu -->
+<!-- Ends the login menu -->
+
+<!-- Starts the Forgotten Password fields -->
+<!-- Starts Forgot Password fields -->
+<script type="text/template" id="resetPasswordForm">
+
+  &lt;div id="resetPassword" class="lform"&gt;
+    &lt;div class="header"&gt;Forgot Password&lt;/div&gt;
+    &lt;p&gt;Enter your login email to reset your password.&lt;/p&gt;
+    &lt;form action="" method="post" id="resetPasswordField"&gt;
+      &lt;div class="form-element email-form"&gt;
+        &lt;div class="label"&gt;email&lt;/div&gt;
+        &lt;input type="text" name="reset_password" id="reset_password"&gt;
+      &lt;/div&gt;
+      &lt;div class="form-element"&gt;
+        &lt;input type="submit" value="Reset password" id="reset_password_submit"&gt;
+      &lt;/div&gt;
+    &lt;/form&gt;
+  &lt;/div&gt;
+
+</script>
+
+<!-- Ends Forgot Password fields -->
+<!-- Ends the Forgotten Password fields-->
+
+<!-- Starts the create a user drop down -->
+
+<!-- Ends the create user drop down -->
+
+
+<!-- Starts the main auto complete template -->
+<script type="text/template" id="autocomplete-profitem">
+  &lt;li data-id="{{pk_id}}"&gt;
+    &lt;span class="wrap"&gt;
+      &lt;span class="main"&gt;{{{teacherfullname_s}}}&lt;/span&gt;
+      &lt;span class="sub"&gt;{{schoolname_s}}&lt;/span&gt;
+    &lt;/span&gt;
+  &lt;/li&gt;
+</script>
+<script type="text/template" id="autocomplete-schoolitem">
+  &lt;li data-id="{{pk_id}}"&gt;
+    &lt;span class="wrap"&gt;
+      &lt;span class="main"&gt;{{schoolname_s}}&lt;/span&gt;
+      &lt;span class="sub"&gt;{{schoolcity_s}}, {{schoolstate_s}}  &lt;span class="typeahead-country"&gt;{{schoolcountry_s}}&lt;/span&gt;&lt;/span&gt;
+    &lt;/span&gt;
+  &lt;/li&gt;
+</script>
+<!-- Ends the main auto complete template -->
+
+    <script type="text/javascript">
+      window.RMP = window.RMP || {};
+
+      var protocol = window.location.protocol;
+      // console.log('protocol is ',protocol);
+      typeaheadurl = "http://search.mtvnservices.com/typeahead/suggest/?solrformat=true&amp;rows=20";
+      if (protocol == 'https:') {
+        typeaheadurl = "https://search-a.akamaihd.net/typeahead/suggest/?solrformat=true&amp;rows=20"
+      }
+      // console.log('typeaheadurl is ',typeaheadurl);
+
+      window.RMP.Settings = {
+        pathname : "",
+        uri : "/campusRatings.jsp",
+        page: "show_school",
+        typeahead :typeaheadurl,
+        ssltypeahead:typeaheadurl,
+        professorID : "",
+        schoolID: "161",
+        department: "",
+        state: "CA",
+        country: "0",
+        user: {},
+        pageLevelData: {
+  "pageName": "/schools/California State University Fresno",
+  "channel": "schools",
+  "v49": "schools",
+  "heir2": "/schools/California State University Fresno",
+  "prop2": "United States",
+  "prop5": "CA",
+  "prop6": "California State University Fresno",
+  "prop8": "visitor",
+  "prop9": "161",
+  "section": "school",
+  "schoolid": "161"
+},
+        reloadInterval: 30000
+      }
+    </script>
+    <!-- Coda Implementation -->
+    <script type="text/javascript">
+      if (typeof MTVN == "undefined") MTVN = {};
+      if (typeof MTVN.config == "undefined") MTVN.config = {};
+      if (typeof MTVN.config.btg == "undefined") MTVN.config.btg = {};
+      if (typeof MTVN.config.btg.DoubleClick == "undefined") MTVN.config.btg.DoubleClick = {};
+
+      MTVN.config.btg.DoubleClick.auto = false;
+      MTVN.config.btg.DoubleClick.onDemand = true;
+      MTVN.config.btg.DoubleClick.reloadableAds = true;
+      MTVN.config.btg.DoubleClick.reloadInterval = 30000;
+      //temporary setting for testing refresh by visibility only on search page
+      /*if(RMP.Settings.page == 'show_school')
+         var autoRefreshByVisibility = true;
+      else*/
+        var autoRefreshByVisibility = false;
+      console.log("Refresh By Visibility: " + (autoRefreshByVisibility ? 'On' : 'Off'))
+
+      var vmn_page_data = {
+        "metadata" :  { "property" : "rmp", "hub" : "", "is_main": false },
+        "mappings" : {
+          "ad-unit" : {"1" : "@property","2": "school" },
+          "key-values" : {
+  "pageName": "/schools/California State University Fresno",
+  "channel": "schools",
+  "v49": "schools",
+  "heir2": "/schools/California State University Fresno",
+  "prop2": "United States",
+  "prop5": "CA",
+  "prop6": "California State University Fresno",
+  "prop8": "visitor",
+  "prop9": "161",
+  "section": "school",
+  "schoolid": "161"
+},
+          "exclusion-categories" : "hub_pages"
+        },
+        "settings" : {
+          "reload" : true,
+          "reload_interval": 30000,
+          "autoRefreshByVisibility" : autoRefreshByVisibility
+        }
+      };
+    </script>
+    <script type="text/javascript" src="https://btg.mtvnservices.com/aria/coda.html?site=ratemyprofessors.com&amp;Ads_DFP=1&amp;Ads=0"></script>
+    <script>
+      if (typeof btg == "undefined") {
+        document.write('&lt;script type="text/javascript" src="/assets/libs/coda.js"&gt;&lt;\/script&gt;');
+      }
+    </script>
+    <script type="text/javascript" src="https://mediamtvnserv-a.akamaihd.net/player/api/2.11.7/api.min.js"></script>
+    <script>
+      window.___gcfg = {
+        lang: 'en-US',
+        parsetags: 'onload'
+      };
+    </script>
+    <script src="https://apis.google.com/js/platform.js" async="" defer="defer" gapi_processed="true"></script>
+    <script src="https://apis.google.com/js/api:client.js" gapi_processed="true"></script>
+       
+    <!-- Coda Implementation -->
+
+    <script src="/assets/application-d6c929c66f0dd74692dd6a10f688c07e.js" type="text/javascript"></script><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 2; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="z-index: 2; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-3" tabindex="0" style="z-index: 2; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-4" tabindex="0" style="z-index: 2; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-5" tabindex="0" style="z-index: 2; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-6" tabindex="0" style="z-index: 2; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-7" tabindex="0" style="z-index: 2; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-8" tabindex="0" style="z-index: 1; display: none;"></ul>
+    <script src="/assets/libs/utils-75c61ccac8cab5db566ebf8424a4c868.js" type="text/javascript"></script>
+  <!-- PAGEOK -->
+  
+<img style="display: block ! important; position: absolute; top: -9999px;" src="//0914.global.ssl.fastly.net/ad/img/x.gif?cb=1477432634759" height="5" width="5" /><img style="display: block ! important; position: absolute; top: -9999px;" src="//ad.doubleclick.net/ddm/ad/ol52b6lgnk/3brjh4paki/9ogelhtv1c/pmzl7/o61u22ra4w/;ord=1477432634760?" height="5" width="5" /><iframe name="oauth2relay241845657" id="oauth2relay241845657" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fwww.ratemyprofessors.com&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.RSFxnXzjQAM.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCPACeunL5EkGbC0Kawrc9r572JXPA#rpctoken=218662007&amp;forcesecure=1" style="width: 1px; height: 1px; position: absolute; top: -100px;" tabindex="-1" aria-hidden="true"></iframe></body></html>

@@ -13,24 +13,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 
-'''
--To scrape a website with javascript we require a method to execute the javascript before
-you can collect the data.
-
--Selemnuim is a webdriver used in this case to execute all comands to obtain an HTML with the
-required information
-
--Firefox is used for the webdriver to call (This is also the reason that a firefox window will pop up)
-
--BeautifulSoup and lxml are used to parse through the HTML file
-
--Calling python script from a C++ program:
-#include <cstlib>
-system("python scraper.py");
-
-'''
-
-
 #LINK PATH TO COOKIE NOTIFICATION 
 LINKPATH= '//*[@id="cookie_notice"]/a[1]'
 
@@ -41,7 +23,7 @@ SCHOOL= 'computer science'
 #SET BROWSER TO OPEN FIREFOX WITH SELENIUM WEBDRIVER
 browser = webdriver.Firefox()
 
-#GET THE INITAL PAGE FOR FRESNO STATE
+#GET THE INITAL WEBSITE FOR FRESNO STATE
 browser.get('https://www.ratemyprofessors.com/campusRatings.jsp?sid=161')
 
 #WAIT UNTIL THE COOKIE NOTIFICATION ID IS PRESENT
@@ -56,43 +38,30 @@ browser.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div/div[3]/div/div/
 wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="mainContent"]/div[1]')))
 #LOAD ALL OF THE PROFESSORS (THIS XPATH LINK DOES NOT WORK YET), UNKNOWN AS TO WHY. 
 #browser.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div/div[5]/div/div[1]').click()
-
-#SLEEP THE PROGRAM TO ALLOW FOR ALL HTML CONTENT TO APPEAR FROM EXECUTED JAVASCRIPT
 sleep(0.3)
 
-#PUT THE PAGE CONTENTS(UNICODE) FROM THE CURRENT BROWSER INTO 'content'  
+#PUT THE PAGE CONTENTS(UNICODE) FROM THE CURRENT BROWSER INTO 'CONTENT'  
 content= browser.page_source
 #CONVERT UNICODE INTO STRING FORMAT TO BE ABLE TO PARSE USING LXML
 string_content= content.encode("utf-8")
 
 #TYPE CHECKING TO MAKE SURE THE CONVERSION WAS SUCCESSFUL 
-#print (type(content))
-#print(type(string_content))
+print (type(content))
+print(type(string_content))
 
-#OPEN A FILE TO WRITE ALL DATA TO
 file = open('resultlist.txt', 'w')
 
-#USING BEAUTIFULSOUP SEARCH FOR THE CLASS RESULT-LIST AND FIND ALL 'a'
-#ATTRIBUTES
 soup= BeautifulSoup(string_content, "lxml")
 list_of_ratings= soup(class_='result-list')[1].find_all('a')
-#PRINT THE LENGTH OF HOW MANY RATINGS THERE ARE
-#print len(list_of_ratings)
-
-#WRITE INTO THE OPEN FILE ALL TEXT IN THE SECOND AND THIRD SPAN
+print len(list_of_ratings)
 for a in list_of_ratings:
 	spans= a.find_all('span')
 	file.write(spans[1].text)
 	file.write(spans[2].text)
 
-#CLOSE THE FILE AND QUIT THE BROWSER FIREFOX
-file.close()
+
 browser.quit()
 
-#PROGRAM END
-
-
-### THE REMAINDER CODE
 '''
 browser.find_element(By.CLASS_NAME, "side-panel")
 

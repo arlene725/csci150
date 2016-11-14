@@ -1,0 +1,3958 @@
+
+    
+    
+    
+     
+     
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    Rate My Professors -  Review Teachers and Professors, School Reviews, College Campus Ratings
+    
+    
+    
+    
+       
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    (function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded)
+    { var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; }
+    _fbq.push(['addPixelId', '331289063738687']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+    
+    <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=331289063738687&ev=PixelInitialized" />
+
+    
+    
+    
+    
+
+  .balaMainContainer {display:table; vertical-align:top; position:fixed; background-color:#EEE; bottom:0px; border:0px solid red; padding: 0px 0px 0px 0px; color:#000; z-index:2147483647; width:100%; margin:0px;}.balaTextContainer {border:0px solid blue; text-align:left; vertical-align:middle; display:table-cell; padding: 10px 10px 10px 15px; margin:0px; font-size:18px;}.balaImageContainer {border:0px solid green; vertical-align:middle; display:table-cell; text-align:right; padding:10px 10px 10px 0px; width:50px;}.balaCloseImage {width:35px; height:35px;cursor:pointer;}a.balaLink {text-decoration: underline; color:#00aaff;}@media only screen and (min-device-width: 320px) and (max-device-width: 640px){.balaTextContainer {font-size:14px;-webkit-text-size-adjust: 100%;}}
+  
+
+    
+    
+    
+    
+      
+        
+          
+            
+            
+              
+                
+                Professors
+                
+              
+            
+            
+
+            
+            
+              
+                
+                Schools
+                
+              
+            
+            
+
+            
+            
+              
+                
+                Rate
+                
+              
+            
+            
+
+            
+            
+              
+                
+                Blog
+                
+              
+            
+            
+
+            
+       
+                  
+                    
+                    My Profs
+                    
+                  
+             
+             
+          &lt;li id = "my-professor-{{id}}"&gt;
+           &lt;a href="/ShowRatings.jsp?tid={{id}}&amp;showMyProfs=true"&gt;
+            &lt;span class="{{ratingclass}}-icon"&gt;&lt;/span&gt;
+           &lt;span class="remove-this-button" data-id="{{id}}"&gt;&amp;#215;&lt;/span&gt;
+           &lt;span class="rating"&gt;{{overall_rating}}&lt;/span&gt;
+           &lt;span class="name"&gt;{{plname}}, {{{pfname}}}
+              &lt;span class="info"&gt;{{rating_count}} RATINGS&lt;/span&gt;
+            &lt;/span&gt;
+         &lt;/a&gt;
+       &lt;/li&gt;
+      
+            
+
+            
+            
+              
+  
+  
+    
+      log In
+      
+    
+  
+
+
+            
+            
+              
+                
+                
+                
+                
+                
+              
+            
+          
+        
+      
+    
+    
+    
+      
+      
+      
+        
+        
+        
+        
+          
+            
+          
+          
+            
+              
+                
+                  Professors
+                  
+                  View All Professors
+                
+                
+                  Schools
+                  
+                  View All Schools
+                
+              
+              
+                Sorry No Results Found
+              
+            
+          
+        
+      
+      
+      
+
+      
+        
+  
+  
+  
+  
+  
+  	
+  
+
+
+
+        
+        
+  
+  
+  
+  
+    
+      
+      
+        
+          Follow us
+        
+        
+          
+            
+              
+                facebook
+              
+            
+            
+              
+                twitter
+              
+            
+            
+              
+                tumblr
+              
+            
+            
+              
+                pinterest
+              
+            
+            
+              
+                instagram
+              
+            
+          
+        
+      
+    
+    
+      
+        
+          
+            Professors
+            
+            View All Professors
+          
+          
+            Schools
+            
+            View All Schools
+          
+        
+        
+          Sorry No Results Found
+        
+      
+    
+  
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+    
+  
+  
+  
+    
+	
+	
+		Log In
+		 Log In / Sign Up 
+	
+
+
+  
+
+
+        
+
+        
+        
+  
+    
+    
+    
+
+
+      
+      
+        Find a Professor
+        
+
+  Find a Professor
+  
+    SEARCH BY
+    Name
+    School
+  
+   
+    
+    
+    
+      
+        I'm looking for a professor at
+        
+              
+                
+              
+               
+              
+                
+              
+
+              named
+        
+
+        
+                
+                  
+                
+                This field is required.
+            
+        
+
+        
+          
+          cancel
+        
+      
+   
+
+  
+    
+    
+    
+
+    
+      I'm looking for professors at
+      
+         
+         
+          
+         
+         This field is required.
+      
+      in the
+      
+        selectselect
+          select
+        
+      
+       department.
+
+    
+      
+      cancel
+    
+
+    
+  
+
+
+   
+  
+      
+      
+
+      
+      
+        Edit your school search
+        
+  
+    Find a School
+    Edit your school search
+    
+      SEARCH BY
+      Name
+      Location
+    
+    
+      
+      
+      
+        
+          
+          
+            
+          
+          This field is required.
+        
+        
+          Looking for a professor by school/department?
+          Click here.
+        
+        
+         
+          
+          CANCEL
+          
+            Looking for a professor by school/department?
+            Click here.
+          
+        
+      
+    
+    
+      
+      
+      
+      
+      
+        I'm looking for a school in 
+        
+          select stateselect stateAlaskaAlabamaArkansasArizonaCaliforniaColoradoConnecticutWashington DCDelawareFloridaGeorgiaHawaiiIowaIdahoIllinoisIndianaKansasKentuckyLouisianaMassachusettsMarylandMaineMichiganMinnesotaMissouriMississippiMontanaNorth CarolinaNorth DakotaNebraskaNew HampshireNew JerseyNew MexicoNevadaNew YorkOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVirginiaVermontWashingtonWisconsinWest VirginiaWyoming
+select state
+Alaska
+Alabama
+Arkansas
+Arizona
+California
+Colorado
+Connecticut
+Washington DC
+Delaware
+Florida
+Georgia
+Hawaii
+Iowa
+Idaho
+Illinois
+Indiana
+Kansas
+Kentucky
+Louisiana
+Massachusetts
+Maryland
+Maine
+Michigan
+Minnesota
+Missouri
+Mississippi
+Montana
+North Carolina
+North Dakota
+Nebraska
+New Hampshire
+New Jersey
+New Mexico
+Nevada
+New York
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Virginia
+Vermont
+Washington
+Wisconsin
+West Virginia
+Wyoming
+
+        
+        This field is required.
+      
+      
+        Looking for a professor by school/department?
+        Click here.
+      
+      
+        
+        CANCEL
+      
+    
+  
+
+
+
+      
+      
+
+      
+      
+
+        Rate a
+        
+  Rate a
+  
+    Professor
+    School
+  
+  
+    
+    
+    
+      
+        I want to rate 
+        
+        This field is required.
+        
+          
+        
+      
+    
+    
+       
+      
+      cancel
+    
+  
+  
+    
+    
+    
+      
+        I want to rate 
+        
+        This field is required.
+        
+          
+        
+      
+    
+    
+       
+      
+      cancel
+    
+  
+
+      
+      
+
+      
+      
+  	    
+  	      
+  		      Rate My Professors Blog
+  		      ×
+
+
+  
+    
+      
+        All CategoriesAll CategoriesRMP BuzzVideoTop ListsMiscellaneous
+All Categories
+RMP Buzz
+Video
+Top Lists
+Miscellaneous
+
+      
+		
+  
+
+
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          Four Reasons to Download the Rate My Professors App
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            Lists
+          
+          The 2015-2016 Annual  Top Lists are here!
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            Lists
+          
+          Highest Rated Universities of 2015-2016
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            Lists
+          
+          Highest Rated Junior and Community Colleges of 2015-2016
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            Lists
+          
+          Highest Rated University Professors of 2015-2016
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            Lists
+          
+          Highest Rated Junior and Community College Professors of 2015-2016
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            Lists
+          
+          The 2015-2016 Fun Lists
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          Is RMP all about professor bashing, or just the opposite? Rate My Professors investigates…
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          Students can’t stop raving about these top Black Studies professors!
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          Here are your top-rated LGBTQ Studies professors!
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            Miscellaneous
+          
+          Rate My Professors users have spoken: find out the results of RMP’s 2016 election poll!
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          5 cool summer opportunities that will boost your resume (and get you off the couch)
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          Why rating your school helps students avoid some very expensive mistakes
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            Miscellaneous
+          
+          What issues matter most to you this election season?
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          RMP ranks the top Women’s Studies professors and departments in the country!
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          4 ways to spend spring break like a boss (and one thing to avoid)
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          Students weigh in on 5 blush-worthy classes on love and sexuality
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          Students’ rave reviews land “phenomenal” prof #1 spot on Top Professors list
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          3 ways Rate My Professors can help you crush add/drop period
+        
+      
+      
+    
+  
+    
+      
+        
+        
+          
+            RMP Buzz
+          
+          Yoda may be a legendary Jedi warrior, but is he a solid professor?
+        
+      
+      
+    
+  
+  
+
+  
+  
+    &lt;li&gt;
+      &lt;a href="/{{actionUrl}}{{blogurl}}"&gt;
+        &lt;figure&gt;&lt;img src="{{imageurl}}" width="73" height="73" /&gt;&lt;/figure&gt;
+        &lt;div class="text-wrap"&gt;
+          &lt;div class="tag"&gt;
+            &lt;span&gt;{{category}}&lt;/span&gt;
+          &lt;/div&gt;
+          &lt;p&gt;{{title}}&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+      &lt;div class = "clearfix"&gt;&lt;/div&gt;
+    &lt;/li&gt;
+  
+
+  	   	  
+  	    
+       
+      
+
+
+      
+	      
+	        ×
+Saved Professors
+
+
+  
+  
+  
+
+
+
+  Load More
+  
+
+
+
+  &lt;li id = "my-professor-{{id}}"&gt;
+    &lt;a href="/ShowRatings.jsp?tid={{id}}&amp;showMyProfs=true"&gt;
+      &lt;span class="{{ratingclass}}-icon"&gt;&lt;/span&gt;
+      &lt;span class="remove-this-button" data-id="{{id}}"&gt;&amp;#215;&lt;/span&gt;
+      &lt;span class="rating"&gt;{{overall_rating}}&lt;/span&gt;
+      &lt;span class="name"&gt;{{plname}}, {{{pfname}}}
+        &lt;span class="info"&gt;{{rating_count}} RATINGS&lt;/span&gt;
+      &lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+
+	      
+      
+
+    
+    
+
+    
+    
+      
+
+        
+          
+            
+            Profs
+          
+        
+        
+          
+            
+            School
+          
+        
+        
+          
+            
+            Rate
+          
+        
+        
+          
+            
+            Blog
+          
+        
+
+        
+            
+                Click here to see all your saved professors.
+                
+                Saved
+            
+         
+
+      
+
+    
+    
+
+  
+
+        
+      
+
+      
+
+      
+        
+          
+    ×
+      
+        
+          Showing professors at
+        
+        
+          California State University Fresno Edit
+        
+        
+          in
+          
+             Computer Science      
+            Enter Your Department
+            
+              
+                Accounting
+              
+            
+              
+                African-American Studies
+              
+            
+              
+                Agribusiness
+              
+            
+              
+                Agricultural Engineering
+              
+            
+              
+                Agriculture
+              
+            
+              
+                American Indian Studies
+              
+            
+              
+                Animal Science
+              
+            
+              
+                Anthropology
+              
+            
+              
+                Art
+              
+            
+              
+                Art History
+              
+            
+              
+                Asian Pacific American Studies
+              
+            
+              
+                Astronomy
+              
+            
+              
+                Athletics
+              
+            
+              
+                Biology
+              
+            
+              
+                Botany
+              
+            
+              
+                Business Administration
+              
+            
+              
+                Chemistry
+              
+            
+              
+                Chicano Studies
+              
+            
+              
+                Child & Family Studies
+              
+            
+              
+                Chinese
+              
+            
+              
+                Civil Engineering
+              
+            
+              
+                Clothing & Textiles
+              
+            
+              
+                Communication
+              
+            
+              
+                Computer Science
+              
+            
+              
+                Construction
+              
+            
+              
+                Continuing & Global Education
+              
+            
+              
+                Counseling, Special Ed & Rehab
+              
+            
+              
+                Criminology
+              
+            
+              
+                Crop Studies
+              
+            
+              
+                Curriculum & Instruction
+              
+            
+              
+                Dance
+              
+            
+              
+                Deaf Studies
+              
+            
+              
+                Design
+              
+            
+              
+                Dramatic Arts
+              
+            
+              
+                Early Childhood Education
+              
+            
+              
+                Earth & Environmental Sciences
+              
+            
+              
+                Economics
+              
+            
+              
+                Education
+              
+            
+              
+                Educational Research
+              
+            
+              
+                Engineering
+              
+            
+              
+                English
+              
+            
+              
+                English As A Second Language
+              
+            
+              
+                Entomology
+              
+            
+              
+                Environmental Science
+              
+            
+              
+                Equine Studies
+              
+            
+              
+                Fashion
+              
+            
+              
+                Finance
+              
+            
+              
+                Food Science
+              
+            
+              
+                French
+              
+            
+              
+                Gender Studies
+              
+            
+              
+                Geography
+              
+            
+              
+                Geology
+              
+            
+              
+                Geomatics Technology
+              
+            
+              
+                German
+              
+            
+              
+                Gerontology
+              
+            
+              
+                Graphic Arts
+              
+            
+              
+                Graphic Design
+              
+            
+              
+                Greek
+              
+            
+              
+                Health Science
+              
+            
+              
+                History
+              
+            
+              
+                Hmong
+              
+            
+              
+                Honors
+              
+            
+              
+                Hospitality
+              
+            
+              
+                Humanities
+              
+            
+              
+                Industrial Technology
+              
+            
+              
+                Information Science
+              
+            
+              
+                Information Systems
+              
+            
+              
+                Information Technology
+              
+            
+              
+                Interdisciplinary Studies
+              
+            
+              
+                Interior Design
+              
+            
+              
+                International Business
+              
+            
+              
+                Italian
+              
+            
+              
+                Japanese
+              
+            
+              
+                Journalism
+              
+            
+              
+                Kinesiology
+              
+            
+              
+                Leisure Studies
+              
+            
+              
+                Liberal Studies
+              
+            
+              
+                Linguistics
+              
+            
+              
+                Literature
+              
+            
+              
+                Management
+              
+            
+              
+                Marketing
+              
+            
+              
+                Mass Comm. & Journalism
+              
+            
+              
+                Mathematics
+              
+            
+              
+                Media Arts
+              
+            
+              
+                Music
+              
+            
+              
+                Natural Sciences
+              
+            
+              
+                Nursing
+              
+            
+              
+                Nutrition
+              
+            
+              
+                Oenology & Viticulture
+              
+            
+              
+                Peace & Conflict Studies
+              
+            
+              
+                Philosophy
+              
+            
+              
+                Photography
+              
+            
+              
+                Physical Education
+              
+            
+              
+                Physical Sciences
+              
+            
+              
+                Physical Therapy
+              
+            
+              
+                Physics
+              
+            
+              
+                Physiology
+              
+            
+              
+                Plant & Soil Science
+              
+            
+              
+                Political Science
+              
+            
+              
+                Psychology
+              
+            
+              
+                Puerto Rican & Latino Studie
+              
+            
+              
+                Recreation & Leisure Studies
+              
+            
+              
+                Rehabilitation Counseling
+              
+            
+              
+                Religion
+              
+            
+              
+                Social Science
+              
+            
+              
+                Social Work
+              
+            
+              
+                Sociology
+              
+            
+              
+                Spanish
+              
+            
+              
+                TA
+              
+            
+              
+                University Studies
+              
+            
+              
+                Viticulture & Enology
+              
+            
+              
+                Women's Studies
+              
+            
+              
+                Zoology
+              
+            
+          
+        
+        
+
+  
+    22 professors found
+    Most RatedMost RatedHighest RatedLeast DifficultAlphabetical
+      
+      Most Rated
+      Highest Rated
+      Least Difficult
+      Alphabetical
+    
+  
+  
+    
+  
+  
+    
+      a
+    
+      b
+    
+      c
+    
+      d
+    
+      e
+    
+      f
+    
+      g
+    
+      h
+    
+      i
+    
+      j
+    
+      k
+    
+      l
+    
+      m
+    
+      n
+    
+      o
+    
+      p
+    
+      q
+    
+      r
+    
+      s
+    
+      t
+    
+      u
+    
+      v
+    
+      w
+    
+      x
+    
+      y
+    
+      z
+    
+    All
+  
+
+
+  
+  
+    
+      
+      3.2
+      Lowe, Prudence
+        97 RATINGS
+      
+    
+  
+
+  
+    
+      
+      2.3
+      Yeung, Henderson
+        56 RATINGS
+      
+    
+  
+
+  
+    
+      
+      2.9
+      Seki, Shigeko
+        46 RATINGS
+      
+    
+  
+
+  
+    
+      
+      3.0
+      Wilson, Todd
+        44 RATINGS
+      
+    
+  
+
+  
+    
+      
+      1.6
+      Wei, Grace
+        31 RATINGS
+      
+    
+  
+
+  
+    
+      
+      1.8
+      Jin, Lan
+        29 RATINGS
+      
+    
+  
+
+  
+    
+      
+      3.6
+      Read, Walter
+        28 RATINGS
+      
+    
+  
+
+  
+    
+      
+      3.1
+      Smith, Jerome
+        26 RATINGS
+      
+    
+  
+
+  
+    
+      
+      2.5
+      Li, Ming
+        22 RATINGS
+      
+    
+  
+
+  
+    
+      
+      2.5
+      Park, Jin
+        11 RATINGS
+      
+    
+  
+
+  
+    
+      
+      4.0
+      Auernheimer, Brent
+        10 RATINGS
+      
+    
+  
+
+  
+    
+      
+      3.6
+      Ruby, David
+        10 RATINGS
+      
+    
+  
+
+  
+    
+      
+      4.6
+      Liu, Shih-Hsi
+        9 RATINGS
+      
+    
+  
+
+  
+    
+      
+      4.3
+      Yan, Jennifer
+        6 RATINGS
+      
+    
+  
+
+  
+    
+      
+      1.4
+      Hatfield, Bo
+        5 RATINGS
+      
+    
+  
+
+  
+    
+      
+      4.1
+      Clifton, Andy
+        5 RATINGS
+      
+    
+  
+
+  
+    
+      
+      3.6
+      Wright, David
+        4 RATINGS
+      
+    
+  
+
+  
+    
+      
+      4.5
+      Bohlin, Roy
+        4 RATINGS
+      
+    
+  
+
+  
+    
+      
+      4.0
+      Villegas, Rafael
+        3 RATINGS
+      
+    
+  
+
+  
+    
+      
+      3.5
+      Cao, YU
+        2 RATINGS
+      
+    
+  
+
+  
+    Load More
+    
+  
+
+
+  don't see your professor? add them.
+
+
+
+  &lt;li&gt;
+    &lt;a href="/ShowRatings.jsp?tid={{id}}"&gt;
+      &lt;span class="{{ratingclass}}-icon"&gt;&lt;/span&gt;
+      &lt;span class="rating"&gt;{{overall_rating}}&lt;/span&gt;
+      &lt;span class="name"&gt;{{plname}}, {{{pfname}}}
+        &lt;span class="info"&gt;{{rating_count}} RATINGS&lt;/span&gt;
+      &lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+
+
+      
+    
+    
+    
+      
+      
+        
+          
+            California State University Fresno
+            
+              
+                
+              
+          	
+          
+          
+            
+              Fresno, CA
+            
+			       Website
+          
+         
+        
+          
+		      
+				    Rate this campus
+        	
+          
+            
+              Share
+              
+                
+                
+                
+                
+                
+                
+              
+            
+          
+  		    
+            Submit a Correction
+          
+        
+      
+      
+      
+      
+        
+          
+            
+              Top Professors
+              
+              view all professors
+            
+          
+          
+            
+              
+                
+                
+                  
+                    
+                      
+                      
+                        Mikow, Marilyn
+                        
+                          28
+                          
+                            reviews
+                          
+                        
+                      
+                      5.0
+                      
+                    
+                  
+                 
+                
+                  
+                    
+                      
+                      
+                        Coles, Michael
+                        
+                          14
+                          
+                            reviews
+                          
+                        
+                      
+                      5.0
+                      
+                    
+                  
+                 
+                
+                  
+                    
+                      
+                      
+                        Morel, Joseph
+                        
+                          10
+                          
+                            reviews
+                          
+                        
+                      
+                      5.0
+                      
+                    
+                  
+                 
+                
+              
+            
+            
+              3.83
+              Average Professor Rating
+            
+          
+        
+        
+          
+            How This School Stacks Up
+          
+          
+            
+              3.6
+              Overall Quality Rating
+            
+            
+              
+                
+                3.6
+                REPUTATION
+              
+              
+                
+                3.5
+                LOCATION
+              
+              
+                
+                3.7
+                INTERNET
+              
+              
+                
+                3.3
+                FOOD
+              
+              
+                
+                3.5
+                OPPORTUNITY
+              
+              
+                
+                4.1
+                FACILITIES
+              
+              
+                
+                3.5
+                CLUBS
+              
+              
+                
+                3.4
+                SOCIAL
+              
+              
+                
+                3.9
+                HAPPINESS
+              
+              
+			  
+                
+                3.9
+                SAFETY
+              
+              
+              
+            
+          
+        
+      
+      
+    	
+      
+      
+      278 School Ratings
+
+      
+        
+          
+            
+              
+              350 characters left
+            
+            
+          
+          
+            
+          
+        
+      
+
+      
+        
+          Rating
+          Comment
+        
+        
+        
+    	  
+          
+          
+            
+              10/18/2016
+              
+                Rating categories
+              
+              
+                
+                  5
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  5
+                  Internet
+                
+                
+                  4
+                  Food
+                
+                
+                  4
+                  Facilities
+                
+                
+                  5
+                  Social
+                
+                
+                  5
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+                  4
+                  Safety
+                
+                
+                
+              
+            
+
+            
+            
+              
+                The campus just feels like home to me. It has a park kind of vibe to it and there are squirrels everywhere. Definitely recommend learning how to ride a long board or a skateboard, if not bring a scooter. The library is by far my favorite place to be and everyone is so friendly! I know Fresno is not the safest but I feel safe on campus.
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              10/12/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  4
+                  Location
+                
+                
+                  4
+                  Internet
+                
+                
+                  4
+                  Food
+                
+                
+                  3
+                  Facilities
+                
+                
+                  4
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  3
+                  Opportunities
+                
+                
+                  5
+                  Clubs
+                
+                
+                
+                  4
+                  Safety
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Just transferred here and I like it a lot! There are so many clubs and awesome classes. Some of the buildings here are a little outdated but the newer ones are great! I especially love that this campus has a fairly big CDDS program which is something that I'm interested in. Also the Bulldog Express is the most genius thing ever
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              09/30/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  4
+                  Location
+                
+                
+                  2
+                  Internet
+                
+                
+                  4
+                  Food
+                
+                
+                  4
+                  Facilities
+                
+                
+                  3
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  5
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+                  4
+                  Safety
+                
+                
+                
+              
+            
+
+            
+            
+              
+                I love CSUF !
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+            
+              
+                
+              
+            
+          
+    	 
+          
+          
+            
+              09/07/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  3
+                  Internet
+                
+                
+                  3
+                  Food
+                
+                
+                  4
+                  Facilities
+                
+                
+                  5
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  3
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+                  2
+                  Safety
+                
+                
+                
+              
+            
+
+            
+            
+              
+                I honestly love Fresno State! When I was in high school, I knew for a fact I belonged at Fresno State. I feel like everyone here is really nice, and everyone is proud to be a Bulldog. I love the school spirit which makes me proud every day to be able to attend CSU Fresno.
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              09/01/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  4
+                  Location
+                
+                
+                  2
+                  Internet
+                
+                
+                  3
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  3
+                  Social
+                
+                
+                  5
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+                  4
+                  Safety
+                
+                
+                
+              
+            
+
+            
+            
+              
+                CSU Fresno is a great school with many opportunities. People are very friendly and are willing to help you, if you're ever having trouble with anything. A lot of beautiful people all around, from different backgrounds. Very diverse. Also, if you're 21, and over, the bar or the club is the best spot
+              
+              
+                
+    							
+    								 2
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              08/19/2016
+              
+                Rating categories
+              
+              
+                
+                  3
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  4
+                  Internet
+                
+                
+                  3
+                  Food
+                
+                
+                  3
+                  Facilities
+                
+                
+                  4
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  3
+                  Clubs
+                
+                
+                
+                  4
+                  Safety
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Campus is nice. Some buildings are a bit run down, some are really nice (lab school reaks of rotting everything, while science 2 is modern and smells like leather). The people are very nice, but too many students just want to party. Club involvement is low, sadly (I just started a club, and I am involved in two other clubs). Professors rock here.
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								1
+    								person
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              08/15/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  5
+                  Internet
+                
+                
+                  4
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  3
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  3
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+                  4
+                  Safety
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Great school and can be fun and easy if you reach out to people.
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              08/15/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  4
+                  Internet
+                
+                
+                  5
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  5
+                  Social
+                
+                
+                  5
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  5
+                  Clubs
+                
+                
+                
+                  5
+                  Safety
+                
+                
+                
+              
+            
+
+            
+            
+              
+                I have always had a level of fondness and respect for this university. I am proud to be a Fresno State student and look forward to the day I graduate from here!
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+            
+              
+                
+              
+            
+          
+    	 
+          
+          
+            
+              07/31/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  4
+                  Location
+                
+                
+                  4
+                  Internet
+                
+                
+                  4
+                  Food
+                
+                
+                  4
+                  Facilities
+                
+                
+                  3
+                  Social
+                
+                
+                  5
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  3
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Awesome school. Been here since after high school and wouldn't wish to be anywhere else. LOVE the support you have from just about anyone. Had everything I expected and more. Go Bulldogs!
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              07/21/2016
+              
+                Rating categories
+              
+              
+                
+                  5
+                  Reputation
+                
+                
+                  5
+                  Location
+                
+                
+                  4
+                  Internet
+                
+                
+                  4
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  4
+                  Social
+                
+                
+                  5
+                  Happiness
+                
+                
+                  5
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Fresno State is an excellent school. Very welcoming, friendly, and the faculty and staff are very support.
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              06/23/2016
+              
+                Rating categories
+              
+              
+                
+                  5
+                  Reputation
+                
+                
+                  5
+                  Location
+                
+                
+                  5
+                  Internet
+                
+                
+                  3
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  5
+                  Social
+                
+                
+                  5
+                  Happiness
+                
+                
+                  5
+                  Opportunities
+                
+                
+                  5
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Best experience of my life!
+              
+              
+                
+    							
+    								 1
+    								person
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              06/10/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  5
+                  Internet
+                
+                
+                  4
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  5
+                  Social
+                
+                
+                  5
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  5
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Proud to be a Fresno State Bulldog
+              
+              
+                
+    							
+    								 1
+    								person
+    								found this useful
+    							
+    							
+    								2
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              06/10/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  3
+                  Internet
+                
+                
+                  1
+                  Food
+                
+                
+                  3
+                  Facilities
+                
+                
+                  3
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  2
+                  Opportunities
+                
+                
+                  3
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Depends on your major that you are studying. Research the school before you apply. Some majors offer a few courses while the rest are electives unrelated to your major.
+              
+              
+                
+    							
+    								 1
+    								person
+    								found this useful
+    							
+    							
+    								1
+    								person
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+            
+              
+                
+              
+            
+          
+    	 
+          
+          
+            
+              05/26/2016
+              
+                Rating categories
+              
+              
+                
+                  3
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  4
+                  Internet
+                
+                
+                  3
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  3
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Good university overall.
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              05/26/2016
+              
+                Rating categories
+              
+              
+                
+                  3
+                  Reputation
+                
+                
+                  2
+                  Location
+                
+                
+                  4
+                  Internet
+                
+                
+                  3
+                  Food
+                
+                
+                  4
+                  Facilities
+                
+                
+                  2
+                  Social
+                
+                
+                  3
+                  Happiness
+                
+                
+                  3
+                  Opportunities
+                
+                
+                  3
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                If you're thinking of coming here because of the Linguistics-TESOL program, you should really go somewhere else.  The TESOL program here is a 'why bother?!' situation. There's very little focus on 'Teaching," and  most ofwhat you will study has little application toward teaching English.  It's pretty pathetic.  Don't waste your time.
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								3
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              05/19/2016
+              
+                Rating categories
+              
+              
+                
+                  2
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  3
+                  Internet
+                
+                
+                  3
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  3
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Fresno State is so underrated. Most people who talk down on Fresno State are the ones that are doing bad in school, aren't involved, or aren't informed about all the great things the school has to provide. I am very thankful to attend Fresno State and proud to be part of such a giving community.
+              
+              
+                
+    							
+    								 6
+    								people
+    								found this useful
+    							
+    							
+    								2
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              05/19/2016
+              
+                Rating categories
+              
+              
+                
+                  2
+                  Reputation
+                
+                
+                  2
+                  Location
+                
+                
+                  3
+                  Internet
+                
+                
+                  4
+                  Food
+                
+                
+                  4
+                  Facilities
+                
+                
+                  3
+                  Social
+                
+                
+                  3
+                  Happiness
+                
+                
+                  3
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Fresno State is definitely not as bad as the reputation it has gotten over the years. It's very cozy and has a friendly environment. Yes, the school is a little old structurally but they're working on that every year. Theres always some sort of construction going on to better the campus.
+              
+              
+                
+    							
+    								 1
+    								person
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              05/18/2016
+              
+                Rating categories
+              
+              
+                
+                  3
+                  Reputation
+                
+                
+                  4
+                  Location
+                
+                
+                  3
+                  Internet
+                
+                
+                  3
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  4
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  4
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Awesome school, great teachers, cool people. People talk down on Fresno because it's a bad place or whatever but I love Fresno State, it's a great place to be. I'm not even from Fresno but I don't see myself going to school anywhere else. Go Bulldogs!
+              
+              
+                
+    							
+    								 1
+    								person
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+            
+              
+                
+              
+            
+          
+    	 
+          
+          
+            
+              05/12/2016
+              
+                Rating categories
+              
+              
+                
+                  3
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  4
+                  Internet
+                
+                
+                  4
+                  Food
+                
+                
+                  5
+                  Facilities
+                
+                
+                  4
+                  Social
+                
+                
+                  4
+                  Happiness
+                
+                
+                  3
+                  Opportunities
+                
+                
+                  2
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Great library, a lot of food choices, fun greek life
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+          
+          
+            
+              05/06/2016
+              
+                Rating categories
+              
+              
+                
+                  4
+                  Reputation
+                
+                
+                  3
+                  Location
+                
+                
+                  3
+                  Internet
+                
+                
+                  3
+                  Food
+                
+                
+                  4
+                  Facilities
+                
+                
+                  3
+                  Social
+                
+                
+                  3
+                  Happiness
+                
+                
+                  4
+                  Opportunities
+                
+                
+                  3
+                  Clubs
+                
+                
+                
+              
+            
+
+            
+            
+              
+                Besides the annoying amount of car jerseys that spontaneously pop up every football season, the scenery is actually pretty decent here. I really enjoy the what this school has to offer, from its huge library to the student union. When you're not studying there is plenty to do, and a fair amount of restaurants to eat at. GO DOGS!!!
+              
+              
+                
+    							
+    								 0
+    								people
+    								found this useful
+    							
+    							
+    								0
+    								people
+    								did not find this useful
+    							
+    		        
+    		      
+              
+                
+    				      report this rating
+                
+              
+            
+            
+          
+          
+          
+    	 
+      
+    		
+          
+          Load More
+          
+    		
+    		
+          
+            Were these reviews useful? Help out your fellow students.
+            Rate this campus
+          
+        
+      
+    
+    
+    
+      &lt;!-- Begins: One Rating --&gt;
+      &lt;tr id="{{id}}" class = "{{class}}"&gt;
+        &lt;td class="scores"&gt;
+          &lt;div class="date"&gt;{{crCreateDate}}&lt;/div&gt;
+          &lt;div class="js-open"&gt;
+            &lt;div class="hidden-lg"&gt;Rating categories&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class="rate-list"&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{reputationColor}}"&gt;{{crSchoolReputation}}&lt;/div&gt;
+              &lt;div class="label"&gt;Reputation&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{locationColor}}"&gt;{{crCampusLocation}}&lt;/div&gt;
+              &lt;div class="label"&gt;Location&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{internetColor}}"&gt;{{crInternetSpeed}}&lt;/div&gt;
+              &lt;div class="label"&gt;Internet&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{foodColor}}"&gt;{{crFoodQuality}}&lt;/div&gt;
+              &lt;div class="label"&gt;Food&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{libraryColor}}"&gt;{{crLibraryCondition}}&lt;/div&gt;
+              &lt;div class="label"&gt;Library&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{campusColor}}"&gt;{{crCampusCondition}}&lt;/div&gt;
+              &lt;div class="label"&gt;Campus&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{socialColor}}"&gt;{{crSocialActivities}}&lt;/div&gt;
+              &lt;div class="label"&gt;Social&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{satisfyColor}}"&gt;{{crSchoolSatisfaction}}&lt;/div&gt;
+              &lt;div class="label"&gt;Happiness&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{careerColor}}"&gt;{{crCareerOpportunities}}&lt;/div&gt;
+              &lt;div class="label"&gt;Opportunities&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="rating"&gt;
+              &lt;div class="score {{clubColor}}"&gt;{{crClubAndEventActivities}}&lt;/div&gt;
+              &lt;div class="label"&gt;Clubs&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td class="comments"&gt;
+          &lt;p&gt;
+            {{crComments}}
+          &lt;/p&gt;
+          &lt;div class="helpful-links thumbs"&gt;
+            
+              &lt;a data-id="{{id}}" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="helpful"&gt;
+            	 	&lt;span class="count"&gt;{{helpCount}}  &lt;/span&gt;
+            		&lt;span class="grouping"&gt;{{usefulGrouping}}&lt;/span&gt;
+                found this useful
+              &lt;/a&gt;
+              &lt;a data-id="{{id}}" data-url="/campusrating/updateCampusRatingHelp" data-sid="161" class="nothelpful"&gt;
+               	&lt;span class="count"&gt;{{notHelpCount}} &lt;/span&gt;
+                &lt;span class="grouping"&gt;{{unUsefulGrouping}}&lt;/span&gt;
+                did not find this useful
+              &lt;/a&gt;
+            
+          &lt;/div&gt;
+          &lt;div class="helpful-links"&gt;
+            &lt;a href="/flagCampusRating.jsp?id={{id}}" data-report-text="{{crComments}}" class="report"&gt;report this rating&lt;/a&gt;
+            
+          &lt;/div&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;!-- Ends: One Rating --&gt;
+    
+  
+        
+      
+      
+
+      
+      
+        
+
+
+	
+		about
+		
+		blog
+		Store
+		Help
+		
+		Contact
+				Us
+		Ad
+				Choices
+		Terms & Conditions Last Modified (2/9/2016)
+		Privacy Policy/Your CA Privacy Rights Last Modified (2/9/2016)
+		Copyright Compliance Policy
+		©2016 RateMyProfessors.com
+			LLC. All Rights Reserved. Powered by mtvU. mtvU is a trademark of Viacom International
+			Inc.
+		
+	
+
+
+      
+      
+    
+    
+
+    
+    
+      
+
+
+
+	
+		about
+			/
+		blog /
+		Store /
+		Help
+			/
+		Contact
+				Us /
+		Ad
+				Choices /
+		Terms & Conditions Last Modified (9/30/2016) /
+		Privacy Policy/Your ca privacy rights Last Modified (9/30/2016) /
+		Copyright Compliance Policy
+
+	
+	
+		©2016
+		RateMyProfessors.com LLC. All Rights Reserved. Powered by mtvU. mtvU is a trademark
+		of Viacom International Inc.
+	
+
+
+    
+    
+
+    
+  ◀
+  ×
+  
+    
+    
+      The 2015-2016 Top Lists are here! 
+      RMP ranks the top professors and schools in the country, based on YOUR ratings!    
+    
+    
+    86
+    Did your school make the list?   
+  
+
+    
+    
+  
+  
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+  &lt;div id="loginMenu" class="lform"&gt;
+    &lt;div class="header"&gt;
+      Login to Rate My Professors
+    &lt;/div&gt;
+    &lt;div class="why-signup"&gt;
+      &lt;span&gt;Go ahead, log in, you're still anonymous.&lt;/span&gt; You're always anonymous here, but logging in will save your school and recent searches, helping you find professors faster. You can thank us later.
+    &lt;/div&gt;
+    &lt;form id="loginForm" action="/userauth" method="post"&gt;
+      &lt;div class="form-element"&gt;
+        &lt;div class="error email password"&gt;Incorrect email or password&lt;/div&gt;
+        &lt;div class="label"&gt;email&lt;/div&gt;
+        &lt;input type="text" name="pemail" class="pemail"/&gt;
+      &lt;/div&gt;
+
+      &lt;div class="form-element"&gt;
+        &lt;div class="label"&gt;password&lt;/div&gt;
+        &lt;input type="text" name="ppassword" class="ppassword" /&gt;
+      &lt;/div&gt;
+
+      &lt;div class="form-element"&gt;
+        &lt;input type="checkbox" name="remember" value="0"/&gt;
+        &lt;label class="rememberme"&gt;Remember Me&lt;/label&gt;
+        &lt;a href="#" class="forgotpw" id="forgotPassword"&gt;Forgot my password &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class="form-element"&gt;
+        &lt;input type="submit" id="userLogin" value="Login"/&gt;
+        &lt;div class="or-block"&gt;
+          &lt;hr/&gt;
+          &lt;div class="ortext"&gt;or&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;a href="#" id="signupLink"&gt;Sign up for an account&lt;/a&gt;
+
+      &lt;/div&gt;
+
+    &lt;/form&gt;
+
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+  &lt;div id="resetPassword" class="lform"&gt;
+    &lt;div class="header"&gt;Forgot Password&lt;/div&gt;
+    &lt;p&gt;Enter your login email to reset your password.&lt;/p&gt;
+    &lt;form action="" method="post" id="resetPasswordField"&gt;
+      &lt;div class="form-element email-form"&gt;
+        &lt;div class="label"&gt;email&lt;/div&gt;
+        &lt;input type="text" name="reset_password" id="reset_password"&gt;
+      &lt;/div&gt;
+      &lt;div class="form-element"&gt;
+        &lt;input type="submit" value="Reset password" id="reset_password_submit"&gt;
+      &lt;/div&gt;
+    &lt;/form&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;li data-id="{{pk_id}}"&gt;
+    &lt;span class="wrap"&gt;
+      &lt;span class="main"&gt;{{{teacherfullname_s}}}&lt;/span&gt;
+      &lt;span class="sub"&gt;{{schoolname_s}}&lt;/span&gt;
+    &lt;/span&gt;
+  &lt;/li&gt;
+
+
+  &lt;li data-id="{{pk_id}}"&gt;
+    &lt;span class="wrap"&gt;
+      &lt;span class="main"&gt;{{schoolname_s}}&lt;/span&gt;
+      &lt;span class="sub"&gt;{{schoolcity_s}}, {{schoolstate_s}}  &lt;span class="typeahead-country"&gt;{{schoolcountry_s}}&lt;/span&gt;&lt;/span&gt;
+    &lt;/span&gt;
+  &lt;/li&gt;
+
+
+
+    
+      window.RMP = window.RMP || {};
+
+      var protocol = window.location.protocol;
+      // console.log('protocol is ',protocol);
+      typeaheadurl = "http://search.mtvnservices.com/typeahead/suggest/?solrformat=true&amp;rows=20";
+      if (protocol == 'https:') {
+        typeaheadurl = "https://search-a.akamaihd.net/typeahead/suggest/?solrformat=true&amp;rows=20"
+      }
+      // console.log('typeaheadurl is ',typeaheadurl);
+
+      window.RMP.Settings = {
+        pathname : "",
+        uri : "/campusRatings.jsp",
+        page: "show_school",
+        typeahead :typeaheadurl,
+        ssltypeahead:typeaheadurl,
+        professorID : "",
+        schoolID: "161",
+        department: "",
+        state: "CA",
+        country: "0",
+        user: {},
+        pageLevelData: {
+  "pageName": "/schools/California State University Fresno",
+  "channel": "schools",
+  "v49": "schools",
+  "heir2": "/schools/California State University Fresno",
+  "prop2": "United States",
+  "prop5": "CA",
+  "prop6": "California State University Fresno",
+  "prop8": "visitor",
+  "prop9": "161",
+  "section": "school",
+  "schoolid": "161"
+},
+        reloadInterval: 30000
+      }
+    
+    
+    
+      if (typeof MTVN == "undefined") MTVN = {};
+      if (typeof MTVN.config == "undefined") MTVN.config = {};
+      if (typeof MTVN.config.btg == "undefined") MTVN.config.btg = {};
+      if (typeof MTVN.config.btg.DoubleClick == "undefined") MTVN.config.btg.DoubleClick = {};
+
+      MTVN.config.btg.DoubleClick.auto = false;
+      MTVN.config.btg.DoubleClick.onDemand = true;
+      MTVN.config.btg.DoubleClick.reloadableAds = true;
+      MTVN.config.btg.DoubleClick.reloadInterval = 30000;
+      //temporary setting for testing refresh by visibility only on search page
+      /*if(RMP.Settings.page == 'show_school')
+         var autoRefreshByVisibility = true;
+      else*/
+        var autoRefreshByVisibility = false;
+      console.log("Refresh By Visibility: " + (autoRefreshByVisibility ? 'On' : 'Off'))
+
+      var vmn_page_data = {
+        "metadata" :  { "property" : "rmp", "hub" : "", "is_main": false },
+        "mappings" : {
+          "ad-unit" : {"1" : "@property","2": "school" },
+          "key-values" : {
+  "pageName": "/schools/California State University Fresno",
+  "channel": "schools",
+  "v49": "schools",
+  "heir2": "/schools/California State University Fresno",
+  "prop2": "United States",
+  "prop5": "CA",
+  "prop6": "California State University Fresno",
+  "prop8": "visitor",
+  "prop9": "161",
+  "section": "school",
+  "schoolid": "161"
+},
+          "exclusion-categories" : "hub_pages"
+        },
+        "settings" : {
+          "reload" : true,
+          "reload_interval": 30000,
+          "autoRefreshByVisibility" : autoRefreshByVisibility
+        }
+      };
+    
+    
+    
+      if (typeof btg == "undefined") {
+        document.write('&lt;script type="text/javascript" src="/assets/libs/coda.js"&gt;&lt;\/script&gt;');
+      }
+    
+    
+    
+      window.___gcfg = {
+        lang: 'en-US',
+        parsetags: 'onload'
+      };
+    
+    
+    
+       
+    
+
+    
+    
+  
+  
