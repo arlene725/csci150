@@ -3844,3 +3844,16 @@ JavaScript warning: https://www.ratemyprofessors.com/assets/application-49c09ddb
 JavaScript warning: https://www.ratemyprofessors.com/assets/application-49c09ddbfe3cfc54b1695a7ccd1726f3.js, line 1: unreachable code after return statement
 [Child 17527] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
 [Child 17527] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1479163168068	geckodriver	INFO	Listening on 127.0.0.1:64870
+1479163169028	mozprofile::profile	INFO	Using profile path /var/folders/s4/xbs8xhtn7_3117gwqr5wn7z00000gn/T/rust_mozprofile.4tFoBcVbik0d
+1479163169030	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1479163169034	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64879
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1479163169514	Marionette	INFO	Listening on port 64879
+1479163170481	Marionette	INFO	startBrowser 56b78528-e806-8047-b7f1-43288360e891
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://www.ratemyprofessors.com/assets/application-49c09ddbfe3cfc54b1695a7ccd1726f3.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.ratemyprofessors.com/assets/application-49c09ddbfe3cfc54b1695a7ccd1726f3.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.ratemyprofessors.com/assets/application-49c09ddbfe3cfc54b1695a7ccd1726f3.js, line 1: unreachable code after return statement
+[Child 17841] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 17841] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052

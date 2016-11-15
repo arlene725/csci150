@@ -83,6 +83,7 @@ list_of_ratings= soup(class_='result-list')[1].find_all('a')
 for a in list_of_ratings:
 	spans= a.find_all('span')
 	file.write(spans[1].text)
+	file.write("*")
 	file.write(spans[2].text)
 
 #CLOSE THE FILE AND QUIT THE BROWSER FIREFOX
