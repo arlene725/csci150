@@ -392,7 +392,7 @@ bool MainWindow::canadd(course * a, course *b) {
     if ((da == db) && (ta == tb))
         return false;
     for (unsigned int i = 0; i < da.size(); ++i) {
-            if (da.at(i) == db.at(i)) {
+            if (da.at(i) == '1' && db.at(i) == '1') {
                 for (unsigned int x = 0; x < ta.size(); ++x) {
                     for (unsigned int y = 0; y < tb.size(); ++y) {
                         if (ta.at(x) == tb.at(y))
@@ -440,6 +440,8 @@ double MainWindow::dectime(string s) {
     int i = 0;
     string substr;
     char c = s.at(i);
+    if (s == "0:00")
+        return 0.0;
     if (s.empty() || (!isdigit(s.at(0)))) {
         cout << "Invalid format\n";
         exit(EXIT_FAILURE);
