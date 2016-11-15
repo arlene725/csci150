@@ -103,11 +103,11 @@ for i in range(len(courses)):
         inst_lname = ""
         instructor_array = instructor.split()
         if len(instructor_array) == 1:
-            inst_fname = "Faculty"
+            inst_fname = "Staff"
             inst_lname = instructor_array[0]
         elif len(instructor_array) > 2:
-            inst_fname = "Multiple"
-            inst_lname = "Instructors"
+            inst_fname = instructor_array[0]
+            inst_lname = instructor_array[1]
         elif len(instructor_array) == 2:
             inst_fname = instructor_array[0]
             inst_lname = instructor_array[1]
@@ -124,9 +124,9 @@ for i in range(len(courses)):
 
         # If no day or time is present
         if len(daytime_array) == 1:
-            start_time = "TBA"
-            end_time = "TBA"
-            days = "TBA"
+            start_time = "0"
+            end_time = "0"
+            days = "0"
 
         # If days/start_time/end_time are all present
         elif len(daytime_array) >= 4:
