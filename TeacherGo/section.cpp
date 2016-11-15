@@ -48,6 +48,7 @@ string course::getClassName()
     return className;
 }
 
+// Days is a 5 character string consisting of 1's and 0's. A 1 means the class meets that day.
 string course::getDays()
 {
     return days;

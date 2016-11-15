@@ -17,12 +17,9 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     classes = 0;
-    //added = QVector<course *>();
-    //possibles = QVector<course *>();
-    ui->setupUi(this);
-    //connect(ui->pushButton, SIGNAL(pressed()), this, SLOT(on_pushButton_clicked()));
-    connect(ui->actionSave, SIGNAL(triggered(bool)), this, SLOT(save()));
-    connect(ui->actionLoad, SIGNAL(triggered(bool)), this, SLOT(load()));
+    ui->setupUi(this); // Creates the gui
+    connect(ui->actionSave, SIGNAL(triggered(bool)), this, SLOT(save())); // Sets up save menu option
+    connect(ui->actionLoad, SIGNAL(triggered(bool)), this, SLOT(load())); // Sets up load menu option
 }
 
 MainWindow::~MainWindow()
@@ -30,6 +27,7 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+// Saves all the sections in possible vector. Activated when save menu item is triggered.
 void MainWindow::save()
 {
         QFile file(QFileDialog::getSaveFileName(this, tr("Save courses"), QDir::currentPath(), tr("Data (*dat)")));
@@ -43,6 +41,7 @@ void MainWindow::save()
         }
 }
 
+// Loads sections saved in a file. Overwrites any sections currentyl in possibles. Activated when load menu item is triggered.
 void MainWindow::load()
 {
     QFile file(QFileDialog::getOpenFileName(this, tr("Load courses"), QDir::currentPath(), tr("Data (*dat)")));
@@ -100,12 +99,12 @@ void MainWindow::on_schedButt_clicked()
     dispSched();
 }
 
-// Displays schedule
+// Displays schedule in table.
 void MainWindow::dispSched()
 {
     course * o;
     ui->schedTable->clearContents();
-    for(int i = 0; i < added.length(); i++)
+    for(int i = 0; i < added.size(); i++)
     {
         o = added.at(i);
 
@@ -280,6 +279,7 @@ void MainWindow::addToTable(course *s)
     ui->sectTable->setSortingEnabled(true);
 }
 
+// Displays all the sections in possible. Only used for testing purposes.
 void MainWindow::displayAll()
 {
     QMessageBox msg;
@@ -291,6 +291,7 @@ void MainWindow::displayAll()
     }
 }
 
+// Initializes a section object from a string.
 void MainWindow::initobj(string s, course * o) {
     string put;
     int i = 0;
@@ -408,6 +409,7 @@ bool MainWindow::canadd(course * a, course *b) {
     return true;
 }
 
+// Adds a course to schedule and added vector.
 void MainWindow::addcourse(course * o) {
     o->schedit();
     added.push_back(o);
