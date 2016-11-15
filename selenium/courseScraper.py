@@ -124,9 +124,9 @@ for i in range(len(courses)):
 
         # If no day or time is present
         if len(daytime_array) == 1:
-            start_time = "0"
-            end_time = "0"
-            days = "0"
+            start_time = "0:00"
+            end_time = "0:00"
+            days = "00000"
 
         # If days/start_time/end_time are all present
         elif len(daytime_array) >= 4:
