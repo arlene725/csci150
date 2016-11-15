@@ -21,7 +21,7 @@ def standard_to_military(time_str):
     elif (time_str[len(time_str)-2] == 'A' and hour == 12) or (time_str[len(time_str)-2] == 'P' and hour != 12):
         temp_array = time_str[:len(time_str)-2].split(':')
         temp_array[0] = str(int(temp_array[0])+12)
-        return ':'.join(temp_array[:])
+        return ':'.join(temp_array)
     else:
         return "ERROR - unable to convert time"
 
